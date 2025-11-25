@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поиск</title>
+    <script>
+        // Справочник товаров (название -> URL)
+        const products = {
+            'кальматрон': '/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron/',
+            'кальматрон-эконом': '/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron-ekonom/',
+            'кальматрон эластик': '/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-elastik/',
+            'кальматрон-акриласт': '/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-akrilast/',
+            'кальматрон-д': '/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d/',
+            'кальматрон-д про': '/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d-pro/',
+            'кальматрон-инжект': '/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/',
+            'гидропломба кальмастоп': '/catalog/remontnye-smesi/gidroplomba-kalmastop/',
+            'кальматрон-шовный': '/catalog/remontnye-smesi/kalmatron-shovnyy/',
+            'гидробетон срг-ф1': '/catalog/remontnye-smesi/gidrobeton-srg-f1/',
+            'гидробетон срг-ф2': '/catalog/remontnye-smesi/gidrobeton-srg-f2/',
+            'гидробетон срг-1': '/catalog/remontnye-smesi/gidrobeton-srg-1/',
+            'гидробетон срг-2': '/catalog/remontnye-smesi/gidrobeton-srg-2/',
+            'гидробетон наливной-1': '/catalog/remontnye-smesi/gidrobeton-nalivnoy-1/',
+            'гидробетон наливной-2': '/catalog/remontnye-smesi/gidrobeton-nalivnoy-2/',
+            'кальматрон адгезив': '/catalog/remontnye-smesi/kalmatron-adgeziv/',
+            'гидробетон-торкрет': '/catalog/remontnye-smesi/gidrobeton-torkret/',
+            'гидробетон крио-1': '/catalog/remontnye-smesi/gidrobeton-krio-1/',
+            'гидробетон крио-2': '/catalog/remontnye-smesi/gidrobeton-krio-2/',
+            'гидробетон-подводный': '/catalog/remontnye-smesi/gidrobeton-podvodnyy-pm/',
+            'гидробетон св-1': '/catalog/remontnye-smesi/gidrobeton-sv-1/',
+            'гидробетон срг-4': '/catalog/remontnye-smesi/gidrobeton-srg-4/',
+            'бентонитовый шнур ультраплат': '/catalog/sistemy-gidroizolyatsii-shvov/bentonitovyy-shnur-ultraplat/',
+            'гидрошпонки ультрабанд': '/catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/',
+            'инжектосистема кальматрон': '/catalog/sistemy-gidroizolyatsii-shvov/inzhektosistema-kalmatron/',
+            'эластичная лента ультрабанд': '/catalog/sistemy-gidroizolyatsii-shvov/elastichnaya-lenta-ultraband-defshov/',
+            'клей ультрабанд': '/catalog/sistemy-gidroizolyatsii-shvov/kley-ultraband-defshov/',
+            'топпинг ультратоп кварц': '/catalog/topping/topping-ultratop-kvarts/',
+            'проникающая гидроизоляция': '/catalog/pronikayushchaya-gidroizolyatsiya/',
+            'эластичная гидроизоляция': '/catalog/elastichnaya-gidroizolyatsiya/',
+            'добавки в бетон': '/catalog/dobavki-v-beton/',
+            'грунтовка для бетона': '/catalog/gruntovka-dlya-betona/',
+            'инъекционная гидроизоляция': '/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/',
+            'ремонтные смеси': '/catalog/remontnye-smesi/',
+            'системы гидроизоляции': '/catalog/sistemy-gidroizolyatsii-shvov/',
+            'топпинг': '/catalog/topping/',
+            'упрочнитель бетона': '/catalog/uprochnitel-betona/'
+        };
+
+        function performSearch() {
+            const query = new URLSearchParams(window.location.search).get('q');
+            if (!query) {
+                window.location.href = '/catalog/';
+                return;
+            }
+
+            const searchTerm = query.toLowerCase().trim();
+            
+            // Ищем точное совпадение
+            if (products[searchTerm]) {
+                window.location.href = products[searchTerm];
+                return;
+            }
+
+            // Ищем частичное совпадение (содержит поисковый термин)
+            for (const [productName, productUrl] of Object.entries(products)) {
+                if (productName.includes(searchTerm) || searchTerm.includes(productName.split(' ')[0])) {
+                    window.location.href = productUrl;
+                    return;
+                }
+            }
+
+            // Если ничего не найдено, перенаправляем в каталог
+            window.location.href = '/catalog/';
+        }
+
+        // Выполняем поиск при загрузке страницы
+        window.addEventListener('load', performSearch);
+    </script>
+</head>
+<body>
+    <p>Выполняется поиск...</p>
+</body>
+</html>
