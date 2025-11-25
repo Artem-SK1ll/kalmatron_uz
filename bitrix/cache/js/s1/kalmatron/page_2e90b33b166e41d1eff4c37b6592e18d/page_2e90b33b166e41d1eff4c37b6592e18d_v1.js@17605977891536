@@ -1,0 +1,34 @@
+
+; /* Start:"a:4:{s:4:"full";s:87:"/local/templates/kalmatron/components/bitrix/news.list/catalog/script.js?17458447191173";s:6:"source";s:72:"/local/templates/kalmatron/components/bitrix/news.list/catalog/script.js";s:3:"min";s:0:"";s:3:"map";s:0:"";}"*/
+$(function () {
+
+    $('[data-action=modal]').on('click', function () {
+        const item = $(this).parents('.js-product').data('item');
+
+        if (item) {
+            const html = `<a title="${item.name}" href="${item.url}" class="category__product-image-block">
+                <img src="${item.picture}" alt="${item.name}" class="category__product-image">
+            </a>
+            <div class="category__product-info-block">
+                <div class="category__product-left">
+                    <p class="category__product-category color-text-gray">${item.section}</p>
+                    <a href="#" class="category__product-title">${item.name}</a>
+                    <p class="category__product-description">${item.chars}</p>
+                </div>
+            </div>`;
+
+            $('[data-product-info]').html(html).show();
+            $('[data-modal=price] [name=PRODUCT]').val(item.id);
+        }
+
+        const openModalName = $(this).data('open-modal');
+        const $modal = $(`.modal[data-modal=${openModalName}]`);
+
+        $modal.fadeIn('fast');
+        $modal.css('display', 'flex');
+
+        return false;
+    })
+})
+/* End */
+;; /* /local/templates/kalmatron/components/bitrix/news.list/catalog/script.js?17458447191173*/

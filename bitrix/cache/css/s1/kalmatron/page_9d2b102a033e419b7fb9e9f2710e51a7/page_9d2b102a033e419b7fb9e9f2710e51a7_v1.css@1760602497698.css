@@ -1,0 +1,32 @@
+
+
+/* Start:/local/templates/kalmatron/components/bitrix/news.list/solutions/style.css?1733145030490*/
+.articles-page .small-article__image-block{
+	height: auto;
+}
+
+.small-articles .small-article__image-block{
+	height: 320px;
+	overflow: hidden;
+	border-radius: 8px;
+}
+
+.small-articles .small-article__image-block img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.articles-page .big-article__image-block{
+	height: 420px;
+	overflow: hidden;
+	border-radius: 8px;
+}
+
+.articles-page .big-article__image-block img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+/* End */
+/* /local/templates/kalmatron/components/bitrix/news.list/solutions/style.css?1733145030490 */
