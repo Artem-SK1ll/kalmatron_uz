@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Подливка оборудования — типовые решения «Кальматрон»</title>
+    <title>Гидроизоляция труб — типовые решения «Кальматрон»</title>
         <script data-skip-moving="true">
         var arSiteOptions = {'USER_ID':'0','DOMAIN':'','SITE_TEMPLATE_PATH':'/local/templates/kalmatron','API_URL':'/api/','SITE_DIR':'/','SCROLLTOTOP_TYPE':'ROUND_COLOR','SCROLLTOTOP_POSITION':'PADDING','SCROLLTOTOP_POSITION_RIGHT':'','SCROLLTOTOP_POSITION_BOTTOM':'','USE_FORMS_GOALS':'NONE','PHONE_MASK':'+7 (999) 999-99-99','VALIDATE_PHONE_MASK':'^[+]7 [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$','VALIDATE_FILE_EXT':'png|jpg|jpeg|gif|svg|doc|docx|xls|xlsx|txt|pdf|odt|rtf'};
     </script>
     <link rel="canonical" href="index.html"/>
     <style type="text/css">.bx-composite-btn {background: url(../../bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(../../bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(../../bitrix/images/main/composite/loading.gif);}</style>
-<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a478d742b29e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"97e6c13c9d10","rIpOz9":"9623efa75886","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"d21663cb616e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"b2669b351751","rIpOz9":"9623efa75886","CpmJaV":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
@@ -25,21 +25,21 @@
 
 
 <!-- dev2fun module opengraph -->
-<meta property="og:title" content="Подливка оборудования &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
-<meta property="og:description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы &laquo;Кальматрон&raquo; применяют для высокоточной цементации оборудования, по..."/>
-<meta property="og:url" content="https://kalmatron.ru/solutions/podlivka-oborudovaniya/"/>
+<meta property="og:title" content="Гидроизоляция труб &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
+<meta property="og:description" content="Гидроизоляция труб представляет собой защиту трубопровода от воздействия воды. На сегодня имеются различные решения как по материалу, так и по типу коммуникаций..."/>
+<meta property="og:url" content="https://kalmatron.ru/solutions/gidroizolyatsiya-vvodov-truboprovoda/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Кальматрон"/>
-<meta property="og:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image" content="https://kalmatron.ru/upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg"/>
 <meta property="og:image:type" content="image/jpeg"/>
-<meta property="og:image:width" content="707"/>
-<meta property="og:image:height" content="398"/>
-<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image:width" content="444"/>
+<meta property="og:image:height" content="592"/>
+<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg"/>
 <!-- /dev2fun module opengraph -->
 
 
 
-<meta name="description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы «Кальматрон» применяют для высокоточной цементации оборудования, подливки под металлоконструкции. Подробнее читайте в статье на сайте Кальматрон." />
+<meta name="description" content="Гидроизоляция труб представляет собой защиту трубопровода от воздействия воды. На сегодня имеются различные решения как по материалу, так и по типу коммуникаций. Рассказываем, какие гидроизоляционные компоненты марки «Кальматрон» лучше всего использовать." />
     <link rel="icon" type="image/png" href="../../favicon-96x96.png" sizes="96x96"/>
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg"/>
     <link rel="shortcut icon" href="../../favicon.ico"/>
@@ -282,11 +282,11 @@
                                                                                                             <li class="menu__inner-item">
                         <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
                     </li>
-                                                                                                            <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
-                    </li>
                                                                                                             <li class="menu__inner-item item-selected">
-                        <a href="index.html">Подливка оборудования</a>
+                        <a href="index.html">Гидроизоляция вводов трубопровода</a>
+                    </li>
+                                                                                                            <li class="menu__inner-item">
+                        <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
                         <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
@@ -706,12 +706,12 @@
                 <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
             </li>
                     <!-- DEBUG: INDEX: 47, TEXT: Гидроизоляция вводов трубопровода, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция вводов трубопровода, LINK: /solutions/gidroizolyatsiya-vvodov-truboprovoda/ -->
-                                <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
+                                <li class="menu__inner-item item-selected">
+                <a href="index.html">Гидроизоляция вводов трубопровода</a>
             </li>
                     <!-- DEBUG: INDEX: 48, TEXT: Подливка оборудования, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Подливка оборудования, LINK: /solutions/podlivka-oborudovaniya/ -->
-                                <li class="menu__inner-item item-selected">
-                <a href="index.html">Подливка оборудования</a>
+                                <li class="menu__inner-item">
+                <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
             </li>
                     <!-- DEBUG: INDEX: 49, TEXT: Ремонт конструкций в зимнее время, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт конструкций в зимнее время, LINK: /solutions/remont-konstruktsiy-v-zimnee-vremya/ -->
                                 <li class="menu__inner-item">
@@ -801,78 +801,85 @@
 				<meta itemprop="position" content="2" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<span class="breadcrumb__current" itemprop="name">Подливка оборудования</span>
+				<span class="breadcrumb__current" itemprop="name">Гидроизоляция вводов трубопровода</span>
 				<meta itemprop="position" content="3" />
 			</span></div>			</div>
 		</div>
 	</div>
 </div>
-<div class="article-page" itemid="/solutions/podlivka-oborudovaniya/" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="mainEntityOfPage" href="../../solutions/podlivka-oborudovaniya/index.html">
+<div class="article-page" itemid="/solutions/gidroizolyatsiya-vvodov-truboprovoda/" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="mainEntityOfPage" href="/solutions/gidroizolyatsiya-vvodov-truboprovoda/">
 	<meta itemprop="author" content="ООО Кальматрон-СПБ">
 	<meta itemprop="datePublished" content="2024-12-03">
-	<meta itemprop="dateModified" content="2024-12-25">
+	<meta itemprop="dateModified" content="2025-02-19">
     <div class="inner">
         <div class="article-page__main-block">
             <div class="article-page__main-block-inner mobile">
                 <div class="article-page__labels article__labels">
                                         					                </div>
                 <p class="subtitle-3 article-page__title">
-                    Подливка оборудования                </p>
+                    Гидроизоляция вводов трубопровода                </p>
             </div>
 
-			            <img itemprop="image" src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" class="article-page__main-block-image" alt="Подливка оборудования">
+			            <img itemprop="image" src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="article-page__main-block-image" alt="Гидроизоляция вводов трубопровода">
 			
             <div class="article-page__main-block-inner desktop">
                 <div class="article-page__labels article__labels">
                                         					                </div>
 
                 <h1 itemprop="headline" class="subtitle-3 article-page__title color-white">
-                    Подливка оборудования                </h1>
+                    Гидроизоляция вводов трубопровода                </h1>
             </div>
         </div>
         <div class="article-page__text-block body-l">
             <div itemprop="articleBody">
 				<p>
-	 Высокоточная цементация оборудования — это строительная технология монтажа металлоконструкций и промышленного оборудования на железобетонный фундамент. Для выполнения работ применяется специализированная строительная смесь&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;и&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>. Для качественного выполнения работ эти подливочные составы обладают высокими техническими характеристиками и особыми свойствами такими как:
-</p>
-<ul>
-	<li>Высокая прочность.</li>
-	<li>Саморастекаемость.</li>
-	<li>Безусадочность.</li>
-	<li>Высокая адгезия.</li>
-</ul>
-<p>
-	 При установке промышленного оборудования на фундамент важно выставить его по уровню горизонта. Нагрузка должна равномерно распределяться на всю плоскость опоры. Технология высокоточной цементации позволяет без лишних усилий качественно и надежно закрепит оборудование на фундаменте.
-</p>
-<p>
-	 Оборудование устанавливается в заданное положение на временные вставки так чтобы между фундаментом и опорой был зазор 20-50 мм. Положение станины регулируется по уровню горизонта. Далее вокруг станины выставляется опалубка в нее заливается специализированный состав&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;(<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>). Благодаря своей сверхтекучести раствор легко распространяется под станиной и создает идеальную опору без щелей и зазоров.
-</p>
- <div class="article-page__paragraph article-page__paragraph_my">
-                <div class="article-page__slider with-arrows swiper">
-                    <div class="swiper-wrapper"><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" alt="Файл галлереии 583">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/f19/g9ltidtft8brgwaf4yplzl5d8l3jf95m/2.jpg" alt="Файл галлереии 584">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/a4b/n7txkep0wg2ptg05hfyp4ajw0nwbsnry/3.jpg" alt="Файл галлереии 585">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/9ff/0ekgy2nwfqnrw3j62zx0rcf726k4w8pk/4.jpg" alt="Файл галлереии 586">
-                        </div></div>
-                </div>
-
-                <div class="desktop arrow-next article-arrow-next swiper-button-next"></div>
-                <div class="desktop arrow-prev article-arrow-prev swiper-button-prev"></div>
-            </div>
-<p>
-	 Высокоточная цементация оборудования — это простая и надежная технология, на сегодняшний день она становится неотъемлемой составляющей качественных строительных работ. Фактически цементация применяется везде, где стальные конструкции устанавливаются на железобетонный фундамент. К таким случаям относятся опоры ЛЭП, стальные колонны, фундаменты обрабатывающих станков и промышленного оборудования.
+	 При гидроизоляции подвальных помещений особого внимания требуют места прохода труб коммуникаций через наружные стены. Это могут быть трубопроводы водоснабжения, водоотведения, отопления, проходы электрических кабелей и прочее. Такие проходы являются слабым местом гидроизоляции, потому что стык между трубой и стеной имеет зазор, через который грунтовые воды протекают в подвал. Изоляция этого стыка проблематична, так как труба периодически смещается при подвижках грунта вокруг здания. Поэтому для надежной гидроизоляции мест ввода коммуникаций разрабатываются специальные технические решения. Вопрос этот возникает как при строительстве новых зданий, так и при ремонте существующих.
 </p>
 <p style="text-align: center;">
- <a href="../../images/02.05/5.png"><img src="../../images/02.05/5.png"></a>
+</p>
+<p style="text-align: center;">
+</p>
+<p style="text-align: center;">
+ <a href="../../images/25.04/1.jpg"><img alt="Гидроизоляция труб" src="../../images/25.04/1.jpg" style="height: 230px;"></a><a href="../../images/25.04/2.jpg"><img alt="Гидроизоляция трубопроводов" src="../../images/25.04/2.jpg" style="height: 230px;"></a><a href="../../images/25.04/3.jpg"><img alt="Бетонирование труб" src="../../images/25.04/3.jpg" style="height: 230px;"></a>
+</p>
+<p style="text-align: center;">
+</p>
+<p style="text-align: center;">
+ <a href="../../images/25.04/4.jpg"><img alt="Гидроизоляции мест ввода коммуникаций" src="../../images/25.04/4.jpg" style="height: 230px;"></a><a href="../../images/25.04/5.jpg"><img alt="Герметизации мест прохода трубопровода" src="../../images/25.04/5.jpg" style="height: 230px;"></a><a href="../../images/25.04/6.jpg"><img alt="Герметизации узлов прохода трубопровода" src="../../images/25.04/6.jpg" style="height: 230px;"></a>
 </p>
 <p>
- <a href="../../images/02.05/6.png"><img src="../../images/02.05/6.png"></a>
+ <a href="../../images/25.04/6.jpg"></a>
 </p>
+<p>
+	 На сегодняшний день при строительстве новых зданий меры по герметизации мест прохода трубопровода предпринимаются заранее, еще на стадии бетонирования подземных конструкций. Благодаря системам BIM-проектирования сразу предусматривается первичная гидроизоляция вводов коммуникаций.
+</p>
+<p>
+	 В арматурный каркас железобетонной стены устанавливаются закладные элементы в виде стальных гильз. Вокруг стальную гильзу оборачивают набухающим&nbsp;<a href="../../catalog/bentonitovyy-shnur/bentonitovyy-shnur-ultraplat/index.html" target="_blank">бентонитовым жгутом «Ультраплат»</a>. После бетонирования стены он обеспечивает герметичность зазора между стальной гильзой и бетоном. Если грунтовые воды просачиваются через стык, жгут разбухает при контакте и не дает им двигаться дальше.
+</p>
+<p>
+	 После снятия опалубки стык между бетоном и гильзой расшивают перфоратором и уплотняют гидроизоляционным ремонтным составом&nbsp;<a href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html" target="_blank">«Кальматрон-Шовный»</a>. Поверхность бетона вокруг гильзы обрабатывается обмазочной гидроизоляцией&nbsp;<a href="../../catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-elastik/index.html" target="_blank">«Кальматрон-Эластик»</a>&nbsp;в соответствии с общей схемой гидроизоляции фундамента.
+</p>
+<p>
+	 Затем через гильзу заводят трубу в любой момент времени. При этой технологии упрощается дальнейшее обслуживание трубопровода (при необходимости ремонта или замены). Зазор между трубой и стальной гильзой герметизируется сальниковым уплотнением.
+</p>
+<p style="text-align: center;">
+ <a href="../../images/25.04/7.png"><img src="../../images/25.04/7.png"></a>
+</p>
+<p>
+	 Необходимость в герметизации проходов трубопровода возникает и при ремонте существующих подземных конструкций, таких как подвальные помещения, насосные станции, подземные резервуары, колодцы. Из-за подвижности соединения с годами происходит разгерметизация узла прохода трубопровода, и вода через стык начинает поступать в помещение. В подземных конструкциях откопка и ремонт гидроизоляции по наружной поверхности или требуют значительных усилий, или невозможны технически. Поэтому герметизация выполняется изнутри. Современные строительные материалы позволяют получить надежный и долговечный герметичный узел при относительно небольших затратах.
+</p>
+<p>
+	 В ходе ремонтных работ бетон вокруг трубы штрабится перфоратором на глубину 70 мм. Если через стык поступает вода, протечка блокируется гидропломбой «Кальмастоп». После остановки течи вокруг трубы крепится&nbsp;<a href="../../catalog/bentonitovyy-shnur/bentonitovyy-shnur-ultraplat/index.html" target="_blank">бентонитовый жгут «Ультраплат»</a>. В дальнейшем при подвижках трубы он будет сдерживать воду. Разбухающий жгут эффективно герметизирует стык, только когда со всех сторон зажат бетоном. В таком случае при поступлении воды он расширяется и заполняет все пространство, блокируя ее движение. Для этого штрабу надо зачеканить ремонтным составом&nbsp;<a href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html">«Кальматрон-Шовный»</a>.
+</p>
+<p>
+	 К гидроизоляции подземных конструкций необходимо подходить комплексно. Не только прорабатывать гидроизоляцию площади поверхности, но и обращать особое внимание на узлы сопряжения различных участков конструкции, проходы трубопроводов, трещины, швы и стыки. Подземные вводы коммуникаций есть в каждом здании и сооружении. Поэтому при решении вопроса гидроизоляции фундамента нужно сразу добавить в перечень обязательных работ герметизацию узлов прохода трубопровода.
+</p>
+ <a href="../../images/25.04/8.png">
+<p style="text-align: center;">
+ <img src="../../images/25.04/8.png">
+</p>
+ </a>
 <br/>
 			</div>
 
@@ -914,7 +921,65 @@
 		</div>
 	</div>	
 </div>
+	<div class="typical-technologies mt-block">
+    <div class="inner">
+                    <div class="title-block">
+                <div class="title-block__inner">
+                    <div class="subtitle-2">Рекомендуемая продукция</div>
+                </div>
+            </div>
+                <div class="technologies-slider">
+            <div class="technologies__slider swiper">
+                <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон Эластик" href="../../catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-elastik/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Эластичная гидроизоляция</p>
+                                    <img src="../../upload/iblock/294/tef8btl42wlv5kbozi236kt37q0hj64g/KM_450x450_KALMATRON_ELASTIK_25_9.jpg" alt="Кальматрон Эластик" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон Эластик</p>
+                                <div class="bags-list__item-text-block">
 
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Эластичная гидроизоляция<br>Упаковка: бумажные мешки по 25 кг + канистра по 9кг<br>Расход: 1,3 кг/м² при толщине нанесения 1 мм                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Бентонитовый шнур «УЛЬТРАПЛАТ»" href="../../catalog/bentonitovyy-shnur/bentonitovyy-shnur-ultraplat/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Системы гидроизоляции швов</p>
+                                    <img src="../../upload/iblock/11c/mzj41it980oa83bb6ycgz1cl87pxqfwo/KM_800x800_Ultraplat.jpg" alt="Бентонитовый шнур «УЛЬТРАПЛАТ»" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Бентонитовый шнур «УЛЬТРАПЛАТ»</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Бентонитовый шнур<br>Упаковка: картонные коробки (40 пог.м.)                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон-Шовный" href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Ремонтные смеси</p>
+                                    <img src="../../upload/iblock/943/7d8f5vvsfinlld17gpc1yo92ecfbibnv/KM_450x450_KALMATRON_SHOVNYY.jpg" alt="Кальматрон-Шовный" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон-Шовный</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Ремонтные смеси<br>Упаковка: бумажные мешки по 25 кг<br>Расход: 0,7                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="desktop arrow-next technologies-arrow-next swiper-button-next"></div>
+            <div class="desktop arrow-prev technologies-arrow-prev swiper-button-prev"></div>
+        </div>
+    </div>
+</div>	
 <div class="main-articles mt-block">
     <div class="inner">
         <div class="title-block">
@@ -923,32 +988,32 @@
             </div>
         </div>
         <div class="small-articles">
-			            <a data-id="546" href="../gidroizolyatsiya-vvodov-truboprovoda/index.html" class="small-article">
+			            <a data-id="544" href="../gidroizolyatsiya-kirpicha/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
                         <p class="article__label">3 дек 2024</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="small-article__image" alt="Гидроизоляция вводов трубопровода">
+                    <img src="../../upload/iblock/2a0/9c179q3195al2qre7p6qe8xty6t97yk9/16.jpg" class="small-article__image" alt="Гидроизоляция кирпича">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция вводов трубопровода                    </p>
+                        Гидроизоляция кирпича                    </p>
                 </div>
             </a>
-			            <a data-id="84" href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html" class="small-article">
+			            <a data-id="548" href="../remont-konstruktsiy-v-zimnee-vremya/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">5 окт 2024</p>
+                        <p class="article__label">3 дек 2024</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/1f3/adogf173w7utgat2uduzan3l3j1plsjl/3.jpg" class="small-article__image" alt="Гидроизоляция бетона">
+                    <img src="../../upload/iblock/e54/gfcz598thiupx2osjh72e9lbtqpjn5co/7.jpg" class="small-article__image" alt="Ремонт конструкций в зимнее время">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция бетона                    </p>
+                        Ремонт конструкций в зимнее время                    </p>
                 </div>
             </a>
 			            <a data-id="512" href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html" class="small-article">
@@ -971,7 +1036,7 @@
     <div class="inner">
         <div class="d-flex justify-center">
             <form class="bq-form feedback__form"
-                  id="bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40"
+                  id="bquadro-form-6a227446ccac4aa1bbee7bacbffef2ec16d80730"
                   data-modal="feedback"
                   novalidate>
                 <input type="hidden" name="sessid" id="sessid" value="" />                <div class="bq-form-inner js-bq-form-inner">
@@ -989,7 +1054,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_NAME"
+                                                       id="6a227446ccac4aa1bbee7bacbffef2ec16d80730_NAME"
                                                        name="NAME"
                                                        placeholder="Ваше имя *"
                                                        value=""
@@ -1003,7 +1068,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_CONTACT"
+                                                       id="6a227446ccac4aa1bbee7bacbffef2ec16d80730_CONTACT"
                                                        name="CONTACT"
                                                        placeholder="Телефон или EMAIL *"
                                                        value=""
@@ -1017,7 +1082,7 @@
                                             >
                                                 <textarea class="bq-form-textarea input input_light-gray feedback__input"
                                                           rows="3"
-                                                          id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_QUESTION"
+                                                          id="6a227446ccac4aa1bbee7bacbffef2ec16d80730_QUESTION"
                                                           name="QUESTION"
                                                           placeholder="Ваш вопрос *"
                                                                                                                     autocomplete="off"
@@ -1103,13 +1168,13 @@
                 </div>
                 <div class="footer__contacts-social">
                     <div class="footer__contacts-social-top">
-                        <div id="bxdynamic_d42sdq_start" style="display:none"></div><!--noindex-->
+                        <div id="bxdynamic_CpmJaV_start" style="display:none"></div><!--noindex-->
 <div class="footer__social-links">
 		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="footer__social-link social-link white ">
 		<img src="../../upload/iblock/64b/svof70p3h26541f2dcwsemg85ej7fa4y/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
-<!--/noindex--><div id="bxdynamic_d42sdq_end" style="display:none"></div>                        <div class="desktop">
+<!--/noindex--><div id="bxdynamic_CpmJaV_end" style="display:none"></div>                        <div class="desktop">
                             <div class="btn primary-btn minify js-bq-form-popup-open"
                                 data-iblock="callback"
                                 data-template="popup"
@@ -1183,9 +1248,6 @@
 <script src="../../bitrix/js/main/jquery/jquery-3.6.0.min.js@173314502189501"></script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_fx.js","\/bitrix\/js\/main\/session.js","\/bitrix\/js\/main\/pageobject\/pageobject.js","\/bitrix\/js\/main\/core\/core_window.js","\/bitrix\/js\/main\/date\/main.date.js","\/bitrix\/js\/main\/core\/core_date.js","\/bitrix\/js\/main\/utils.js","\/local\/templates\/kalmatron\/js\/libs\/swiper-bundle.min.js","\/local\/templates\/kalmatron\/js\/libs\/vlitejs.js","\/local\/templates\/kalmatron\/js\/jquery.validate.min.js","\/local\/templates\/kalmatron\/js\/jquery.fancybox.min.js","\/local\/templates\/kalmatron\/js\/jquery.inputmask.bundle.min.js","\/local\/templates\/kalmatron\/js\/jquery.uniform.min.js","\/local\/templates\/kalmatron\/js\/searchtitle.js","\/local\/templates\/kalmatron\/js\/script.js","\/local\/templates\/kalmatron\/js\/custom.js","\/bitrix\/components\/bitrix\/search.title\/script.js","\/local\/templates\/kalmatron\/components\/bitrix\/search.title\/main\/script.js","\/local\/templates\/kalmatron\/components\/bitrix\/search.title\/mobile\/script.js"]);</script>
 <script>BX.setCSSList(["\/local\/templates\/kalmatron\/components\/bitrix\/news.detail\/article\/style.css","\/bitrix\/templates\/.default\/ajax\/ajax.css","\/local\/templates\/kalmatron\/css\/libs\/swiper-bundle.min.css","\/local\/templates\/kalmatron\/css\/libs\/vlite.css","\/local\/templates\/kalmatron\/css\/style.css","\/local\/templates\/kalmatron\/css\/jquery.fancybox.min.css","\/local\/templates\/kalmatron\/css\/custom.css"]);</script>
-<script>void 0===BX.Kdelo?.Captcha&&(BX.namespace("Kdelo.Captcha"),(()=>{const e="captchaApiLoader";let t={};BX.Kdelo.Captcha=new class{constructor(){}get options(){return JSON.parse(JSON.stringify(t.options))}get params(){let e=t.options.params;return JSON.parse(JSON.stringify(e))}get key(){return t.options.key}get hl(){return t.options.params.hl}get type(){return t.options.type}isYandexSmartCaptcha(){return"ya.smartcaptcha"==this.type}isGoogleRecaptcha(){return!this.isYandexSmartCaptcha()}isGoogleRecaptcha3(){return this.isGoogleRecaptcha()&&3==t.options.ver}isInvisible(){return this.isYandexSmartCaptcha()?t.options.params.invisible:this.isGoogleRecaptcha()&&!this.isGoogleRecaptcha3()?"invisible"==t.options.params.size:void 0}get className(){return this.isYandexSmartCaptcha()?"smart-captcha":this.isGoogleRecaptcha()?"g-recaptcha":""}get selector(){return"."+this.className}get clientResponseSelector(){return this.isYandexSmartCaptcha()?'[name="smart-token"]':this.isGoogleRecaptcha()?".g-recaptcha-response":""}get api(){return this.isYandexSmartCaptcha()?window.smartCaptcha||null:this.isGoogleRecaptcha()&&window.grecaptcha||null}getApiResponse(e){return void 0!==e?this.api.getResponse(e):""}init(e){t.options||(t.options="object"==typeof e&&e?e:{},window.onLoadCaptcha=window.onLoadCaptcha||this.onLoad.bind(this),window.renderCaptcha=window.renderCaptcha||this.render.bind(this),window.onPassedCaptcha=window.onPassedCaptcha||this.onPassed.bind(this),window.renderRecaptchaById=window.renderRecaptchaById||window.renderCaptcha,this.isYandexSmartCaptcha()&&(window.kdeloRecaptcha=t.options),this.isGoogleRecaptcha()&&(window.kdeloRecaptcha.params={sitekey:t.options.key,recaptchaLang:t.options.params.hl,callback:t.options.params.callback},this.isGoogleRecaptcha3()||(window.kdeloRecaptcha.params.recaptchaSize=t.options.params.size,window.kdeloRecaptcha.params.recaptchaColor=t.options.params.theme,window.kdeloRecaptcha.params.recaptchaLogoShow=t.options.params.showLogo,window.kdeloRecaptcha.params.recaptchaBadge=t.options.params.badge)))}load(){return t.loadPromise=t.loadPromise||new Promise(((a,o)=>{try{if(t.onResolveLoadPromise=()=>{a()},document.getElementById(e))throw"Another Api loader already exists";let o=document.createElement("script");o.id=e,this.isYandexSmartCaptcha()?o.src="https://smartcaptcha.yandexcloud.net/captcha.js?render=onload&onload=onLoadCaptcha":o.src="//www.google.com/recaptcha/api.js?hl="+this.hl+"&onload=onLoadCaptcha&render="+(this.isGoogleRecaptcha3()?this.key:"explicit"),document.head.appendChild(o)}catch(e){console.error(e),o(e)}})),t.loadPromise}onLoad(){"function"==typeof t.onResolveLoadPromise&&t.onResolveLoadPromise()}validate(e){if(e){let t=e.closest("form")?.querySelector(this.selector);if(t){let e=t.getAttribute("data-widgetid");if(void 0!==e)return""!=this.getApiResponse(e)}}return!0}onPassed(e){e&&document.querySelectorAll(this.selector).forEach((t=>{let a=t.getAttribute("data-widgetid");if(void 0!==a){if(this.getApiResponse(a)==e){let a=t.closest("form");if(a)if(this.isInvisible()){let t=this.clientResponseSelector;a.querySelector(t)&&!a.querySelector(t).value&&(a.querySelector(t).value=e),document.querySelectorAll('iframe[src*="recaptcha"]').forEach((e=>{let t=e.parentElement?.parentElement;t&&(t.classList.contains("grecaptcha-badge")||(t.style.width="100%"))})),"one_click_buy_form"==a.getAttribute("id")?BX.submit(BX("one_click_buy_form")):"form_comment"==a.getAttribute("name")?BX.submit(BX("form_comment")):a.submit()}else this.Replacer.addValidationInput(a),a.querySelector("input.recaptcha")&&this.api&&$(a.querySelector("input.recaptcha")).valid()}}}))}onSubmit(e){return new Promise(((t,a)=>{try{if("object"==typeof e&&e&&e.form&&this.api){let a=e.form.querySelector(this.selector);if(a){let o=a.getAttribute("data-widgetid");if(void 0!==o){let a=this.clientResponseSelector;e.form.querySelector(a)&&!e.form.querySelector(a).value&&(e.form.closest(".form")&&e.form.closest(".form").classList.add("sending"),this.isInvisible()?(this.api.execute(o),t(!1)):this.isGoogleRecaptcha3()&&(this.api.execute(this.key,{action:"maxscore"}).then((t=>{e.form.querySelector(a).value=t,"one_click_buy_form"==e.form.getAttribute("id")?BX.submit(BX("one_click_buy_form")):"form_comment"==e.form.getAttribute("name")?BX.submit(BX("form_comment")):e.form.submit()})),t(!1)))}}}t(!0)}catch(e){console.error(e),a(e)}}))}render(e){return new Promise(((t,a)=>{this.load().then((()=>{try{if(!this.api)throw"Captcha api not loaded";const a=a=>{if(!a.classList.contains(this.className))throw"Node is not a captcha #"+e;let o;this.isGoogleRecaptcha3()?(a.innerHTML='<textarea class="g-recaptcha-response" style="display:none;resize:0;" name="g-recaptcha-response"></textarea>',t(a)):(a.children.length&&t(a),o=this.api.render(a,this.params),a.setAttribute("data-widgetid",o),t(a))};let o=document.getElementById(e);if(o)a(o);else{let t=0;const s=setInterval((()=>{if(o=document.getElementById(e),o)clearInterval(s),a(o);else if(++t>=10)throw clearInterval(s),"Captcha not finded #"+e}),100)}}catch(e){console.error(e),a(e)}})).catch((e=>{console.error(e),a(e)}))}))}};BX.Kdelo.Captcha.Replacer=new class{constructor(){this.bindEvents()}bindEvents(){BX.addCustomEvent(window,"onRenderCaptcha",BX.proxy(this.replace,this)),BX.addCustomEvent(window,"onAjaxSuccess",BX.proxy(this.replace,this))}replace(e){try{this.fixExists();let e=this.getForms();for(let t=0;t<e.length;++t){let a=e[t];this.hideLabel(a),this.removeReload(a),BX.Kdelo.Captcha.isGoogleRecaptcha3()&&this.hideRow(a),BX.Kdelo.Captcha.isGoogleRecaptcha3()||BX.Kdelo.Captcha.isInvisible()||this.addValidationInput(a);let o=this.getInputs(a);for(let e=0;e<o.length;++e)this.replaceInput(o[e]);let s=this.getImages(a);for(let e=0;e<s.length;++e)this.hideImage(s[e])}return!0}catch(e){return console.error(e),!1}}fixExists(){let e=document.getElementsByClassName(BX.Kdelo.Captcha.className);if(e.length)for(let t=0;t<e.length;++t){let a=e[t],o=a.id;if("string"==typeof o&&0!==o.length){let e=a.closest("form");if(e&&(this.hideLabel(e),this.removeReload(e),BX.Kdelo.Captcha.isGoogleRecaptcha()&&BX.Kdelo.Captcha.isGoogleRecaptcha3()&&this.hideRow(e),BX.Kdelo.Captcha.isGoogleRecaptcha3()||BX.Kdelo.Captcha.isInvisible()||this.addValidationInput(e),BX.Kdelo.Captcha.isYandexSmartCaptcha()||!BX.Kdelo.Captcha.isGoogleRecaptcha3())){let e=a.closest(".captcha-row");e&&(BX.Kdelo.Captcha.isYandexSmartCaptcha()?BX.Kdelo.Captcha.isInvisible()&&e.classList.add((BX.Kdelo.Captcha.params.hideShield,"n"),BX.Kdelo.Captcha.params.shieldPosition):e.classList.add("logo_captcha_"+BX.Kdelo.Captcha.params.showLogo,window.BX.Kdelo.Captcha.params.badge),BX.Kdelo.Captcha.isInvisible()&&e.classList.add("invisible"),e.querySelector(".captcha_image")?.classList.add("recaptcha_tmp_img"),e.querySelector(".captcha_input")?.classList.add("recaptcha_text"))}}}}getForms(){let e=[],t=this.getInputs();for(let a=0;a<t.length;++a){let o=t[a].closest("form");o&&e.push(o)}return e}getInputs(e=null){let t=[];return(e=e||document).querySelectorAll('form input[name="captcha_word"]').forEach((e=>{t.push(e)})),t}getImages(e=null){let t=[];return(e=e||document).querySelectorAll("img[src]").forEach((e=>{(/\/bitrix\/tools\/captcha.php\?(captcha_code|captcha_sid)=[^>]*?/i.test(e.src)||"captcha"===e.id)&&t.push(e)})),t}replaceInput(e){if(!e)return;let t="recaptcha-dynamic-"+(new Date).getTime();if(null!==document.getElementById(t)){let e=!1,a=null,o=65535;do{a=Math.floor(Math.random()*o),e=null!==document.getElementById(t+a)}while(e);t+=a}let a=document.createElement("div");a.id=t,a.className=BX.Kdelo.Captcha.className,a.setAttribute("data-sitekey",BX.Kdelo.Captcha.key),e.parentNode&&(e.parentNode.classList.add("recaptcha_text"),e.parentNode.replaceChild(a,e)),BX.Kdelo.Captcha.render(t)}hideImage(e){if(!e)return;e.style.display="none";e.setAttribute("src","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"),e.parentNode&&e.parentNode.classList.add("recaptcha_tmp_img")}hideLabel(e=null){(e=e||document).querySelectorAll(".captcha-row label").forEach((e=>{e.style.display="none"}))}removeReload(e=null){(e=e||document).querySelectorAll(".captcha-row .refresh").forEach((e=>{e.remove()})),e.querySelectorAll(".captcha_reload").forEach((e=>{e.remove()}))}hideRow(e=null){(e=e||document).querySelectorAll(".captcha-row").forEach((e=>{e.style.display="none"}))}addValidationInput(e=null){(e=e||document).querySelectorAll(".captcha-row").forEach((e=>{e.querySelector("input.recaptcha")||e.appendChild(BX.create({tag:"input",attrs:{type:"text",class:"recaptcha"},html:""}))}))}}})());</script>
-<script>window['kdeloRecaptcha'] = {"type":"g.recaptcha","key":"6Le5GZAqAAAAAGms7k9GLzBT9i4KFZfOyw4BnwNQ","ver":"2","params":{"sitekey":"6Le5GZAqAAAAAGms7k9GLzBT9i4KFZfOyw4BnwNQ","hl":"ru","callback":"onPassedCaptcha","theme":"light","showLogo":"y","size":"normal","badge":"bottomright"}};</script><script>BX.Kdelo.Captcha.init({"type":"g.recaptcha","key":"6Le5GZAqAAAAAGms7k9GLzBT9i4KFZfOyw4BnwNQ","ver":"2","params":{"sitekey":"6Le5GZAqAAAAAGms7k9GLzBT9i4KFZfOyw4BnwNQ","hl":"ru","callback":"onPassedCaptcha","theme":"light","showLogo":"y","size":"normal","badge":"bottomright"}});</script>
-<script>BX.message({'JS_REQUIRED':'Заполните это поле!','JS_FORMAT':'Неверный формат!','JS_FILE_EXT':'Недопустимое расширение файла!','JS_PASSWORD_COPY':'Пароли не совпадают!','JS_PASSWORD_LENGTH':'Минимум 6 символов!','JS_ERROR':'Неверно заполнено поле!','JS_FILE_SIZE':'Максимальный размер 5мб!','JS_FILE_BUTTON_NAME':'Выберите файл','FORM_FILE_DEFAULT':'Прикрепить файл','JS_FILE_DEFAULT':'Файл не найден','JS_DATE':'Некорректная дата!','JS_DATETIME':'Некорректная дата/время!','JS_REQUIRED_LICENSES':'Пожалуйста, ознакомьтесь с условиями','JS_REQUIRED_OFFER':'Согласитесь с условиями','S_CALLBACK':'Заказать звонок','S_QUESTION':'Задать вопрос','S_ASK_QUESTION':'Задать вопрос','S_FEEDBACK':'Оставить отзыв','S_SERVICES':'Наши услуги','S_SERVICES_SHORT':'Услуги','S_TO_ALL_SERVICES':'Все услуги','S_CATALOG':'Каталог товаров','S_CATALOG_SHORT':'Каталог','S_TO_ALL_CATALOG':'Весь каталог','S_CATALOG_FAVORITES':'Наши товары','S_CATALOG_FAVORITES_SHORT':'Товары','S_NEWS':'Новости','S_TO_ALL_NEWS':'Все новости','S_COMPANY':'О компании','S_OTHER':'Прочее','S_CONTENT':'Контент','T_JS_ARTICLE':'Артикул: ','T_JS_NAME':'Наименование: ','T_JS_PRICE':'Цена: ','T_JS_QUANTITY':'Количество: ','T_JS_SUMM':'Сумма: ','FANCY_CLOSE':'Закрыть','FANCY_NEXT':'Вперед','FANCY_PREV':'Назад','CUSTOM_COLOR_CHOOSE':'Выбрать','CUSTOM_COLOR_CANCEL':'Отмена','S_MOBILE_MENU':'Меню','DIGITAL_T_MENU_BACK':'Назад','DIGITAL_T_MENU_CALLBACK':'Обратная связь','DIGITAL_T_MENU_CONTACTS_TITLE':'Будьте на связи','TITLE_BASKET':'В корзине товаров на #SUMM#','BASKET_SUMM':'#SUMM#','EMPTY_BASKET':'Корзина пуста','TITLE_BASKET_EMPTY':'Корзина пуста','BASKET':'Корзина','SEARCH_TITLE':'Поиск','SOCIAL_TITLE':'Оставайтесь на связи','LOGIN':'Войти','MY_CABINET':'Кабинет','SUBSCRIBE_TITLE':'Будьте всегда в курсе','HEADER_SCHEDULE':'Время работы','SEO_TEXT':'SEO описание','COMPANY_IMG':'Картинка компании','COMPANY_TEXT':'Описание компании','JS_RECAPTCHA_ERROR':'Пройдите проверку','JS_PROCESSING_ERROR':'Согласитесь с условиями!','CONFIG_SAVE_SUCCESS':'Настройки сохранены','CONFIG_SAVE_FAIL':'Ошибка сохранения настроек','CLEAR_FILE':'Отменить','ALL_SECTIONS_PROJECT':'Все проекты','RELOAD_PAGE':'Обновить страницу','REFRESH':'Поменять картинку','RECAPTCHA_TEXT':'Подтвердите, что вы не робот','SHOW':'Еще','HIDE':'Скрыть','FILTER_EXPAND_VALUES':'Показать все','FILTER_HIDE_VALUES':'Свернуть','COUNTDOWN_SEC':'сек','COUNTDOWN_MIN':'мин','COUNTDOWN_HOUR':'час','COUNTDOWN_DAY0':'дн','COUNTDOWN_DAY1':'дн','COUNTDOWN_DAY2':'дн','COUNTDOWN_WEAK0':'Недель','COUNTDOWN_WEAK1':'Неделя','COUNTDOWN_WEAK2':'Недели','COUNTDOWN_MONTH0':'Месяцев','COUNTDOWN_MONTH1':'Месяц','COUNTDOWN_MONTH2':'Месяца','COUNTDOWN_YEAR0':'Лет','COUNTDOWN_YEAR1':'Год','COUNTDOWN_YEAR2':'Года','COUNTDOWN_COMPACT_SEC':'с','COUNTDOWN_COMPACT_MIN':'м','COUNTDOWN_COMPACT_HOUR':'ч','COUNTDOWN_COMPACT_DAY':'д','COUNTDOWN_COMPACT_WEAK':'н','COUNTDOWN_COMPACT_MONTH':'м','COUNTDOWN_COMPACT_YEAR0':'л','COUNTDOWN_COMPACT_YEAR1':'г','BASKET_PRINT_BUTTON':'Распечатать','BASKET_CLEAR_ALL_BUTTON':'Очистить','BASKET_QUICK_ORDER_BUTTON':'Быстрый заказ','BASKET_CONTINUE_BUTTON':'Продолжить покупки','BASKET_ORDER_BUTTON':'Оформить заказ','SHARE_BUTTON':'Поделиться','BASKET_CHANGE_TITLE':'Ваш заказ','BASKET_CHANGE_LINK':'Изменить','MORE_INFO_SKU':'Купить','ITEM_ECONOMY':'Экономия','ITEM_ARTICLE':'Артикул: ','JS_FORMAT_ORDER':'имеет неверный формат','JS_BASKET_COUNT_TITLE':'В корзине товаров на SUMM','POPUP_VIDEO':'Видео','POPUP_GIFT_TEXT':'Нашли что-то особенное? Намекните другу о подарке!','ORDER_FIO_LABEL':'Ф.И.О.','ORDER_PHONE_LABEL':'Телефон','ORDER_REGISTER_BUTTON':'Регистрация','PRICES_TYPE':'Варианты цен','FILTER_HELPER_VALUES':' знач.','SHOW_MORE_SCU_MAIN':'Еще #COUNT#','SHOW_MORE_SCU_1':'предложение','SHOW_MORE_SCU_2':'предложения','SHOW_MORE_SCU_3':'предложений','PARENT_ITEM_NOT_FOUND':'Не найден основной товар для услуги в корзине. Обновите страницу и попробуйте снова.','S_FAVORITE':'Избранное','NOTICE_ADDED2FAVORITE':'В избранном','NOTICE_REMOVED_FROM_FAVORITE':'Удалено из избранного','NOTICE_REQUEST_ERROR':'Ошибка запрос','NOTICE_AUTHORIZED':'Вы успешно авторизовались','NOTICE_CLOSE':'Закрыть','ERROR_SERVICE_UNAVAILABLE':'Сервис временно недоступен','SEX_M':'Мужчина','SEX_W':'Женщина','SEX_F':'Женщина','PROFILE_LINK_COPY_TO_CLIPBOARD':'Ссылка на профиль скопирована в буфер обмена!','NEED_AUTH':'Для выполнения этого действия требуется авторизация!'})</script>
 <script type="text/javascript">
 	var jsControl;
 	BX.ready(function(){
@@ -1196,7 +1258,7 @@
         }
 		
 		jsControl = new JCTitleSearch2({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/gidroizolyatsiya-vvodov-truboprovoda/',
 			'CONTAINER_ID': 'title-search',
 			'INPUT_ID': 'title-search-input',
 			'INPUT_ID_TMP': 'title-search-input',
@@ -1214,7 +1276,7 @@
         }
 		
 		jsControl = new JCTitleSearch3({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/gidroizolyatsiya-vvodov-truboprovoda/',
 			'CONTAINER_ID': 'title-search-mobile',
 			'INPUT_ID': 'title-search-input-mobile',
 			'INPUT_ID_TMP': 'title-search-input-mobile',
@@ -1225,9 +1287,9 @@
 </script><script class="js-bq-form-script">
                 new BquadroForm({
                     params: {'IBLOCK_ID':'feedback','IBLOCK_TYPE':'forms','TITLE':'Остались вопросы?','DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','GOAL':'ostalis-voprosy','CACHE_TYPE':'A','TYPE':'','~IBLOCK_ID':'feedback','~IBLOCK_TYPE':'forms','~TITLE':'Остались вопросы?','~DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','~SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','~GOAL':'ostalis-voprosy','~CACHE_TYPE':'A','~TYPE':''},
-                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
-            </script>
+                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-6a227446ccac4aa1bbee7bacbffef2ec16d80730','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
+            
 <script  src="../../bitrix/cache/js/s1/kalmatron/template_a168bd841f75c9187efdaaff729553ab/template_a168bd841f75c9187efdaaff729553ab_v1.js@1760597754510771"></script>
 
 </body>
-</html><!--cb99555e38cc5d933e8f9d554477cae7-->
+</html>

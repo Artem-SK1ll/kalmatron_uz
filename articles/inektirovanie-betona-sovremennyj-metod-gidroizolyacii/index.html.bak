@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Подливка оборудования — типовые решения «Кальматрон»</title>
+    <title>Инъектирование бетона: технология и материалы гидроизоляции трещин</title>
         <script data-skip-moving="true">
         var arSiteOptions = {'USER_ID':'0','DOMAIN':'','SITE_TEMPLATE_PATH':'/local/templates/kalmatron','API_URL':'/api/','SITE_DIR':'/','SCROLLTOTOP_TYPE':'ROUND_COLOR','SCROLLTOTOP_POSITION':'PADDING','SCROLLTOTOP_POSITION_RIGHT':'','SCROLLTOTOP_POSITION_BOTTOM':'','USE_FORMS_GOALS':'NONE','PHONE_MASK':'+7 (999) 999-99-99','VALIDATE_PHONE_MASK':'^[+]7 [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$','VALIDATE_FILE_EXT':'png|jpg|jpeg|gif|svg|doc|docx|xls|xlsx|txt|pdf|odt|rtf'};
     </script>
     <link rel="canonical" href="index.html"/>
     <style type="text/css">.bx-composite-btn {background: url(../../bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(../../bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(../../bitrix/images/main/composite/loading.gif);}</style>
-<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a478d742b29e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"97e6c13c9d10","rIpOz9":"9623efa75886","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"0162db45a558","7DqYyc":"257a2af22d30","XEVOpk":"4c420220ace3","jmonnO":"584240393a1b","g8taYv":"b2c5acb788f9","rIpOz9":"fe2e8211a5db","CpmJaV":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
@@ -25,21 +25,21 @@
 
 
 <!-- dev2fun module opengraph -->
-<meta property="og:title" content="Подливка оборудования &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
-<meta property="og:description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы &laquo;Кальматрон&raquo; применяют для высокоточной цементации оборудования, по..."/>
-<meta property="og:url" content="https://kalmatron.ru/solutions/podlivka-oborudovaniya/"/>
+<meta property="og:title" content="Инъектирование бетона: технология и материалы гидроизоляции трещин"/>
+<meta property="og:description" content="Гидроизоляция бетона инъекционным способом позволяет реализовать проектные и ремонтные задачи в местах, где иные гидрозащитные подходы не могут быть реализованы..."/>
+<meta property="og:url" content="https://kalmatron.ru/articles/inektirovanie-betona-sovremennyj-metod-gidroizolyacii/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Кальматрон"/>
-<meta property="og:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image" content="https://kalmatron.ru/upload/iblock/b2a/2yes3o40npvcnu330jshbr971630mjie/12846.jpg"/>
 <meta property="og:image:type" content="image/jpeg"/>
-<meta property="og:image:width" content="707"/>
-<meta property="og:image:height" content="398"/>
-<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image:width" content="620"/>
+<meta property="og:image:height" content="465"/>
+<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/b2a/2yes3o40npvcnu330jshbr971630mjie/12846.jpg"/>
 <!-- /dev2fun module opengraph -->
 
 
 
-<meta name="description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы «Кальматрон» применяют для высокоточной цементации оборудования, подливки под металлоконструкции. Подробнее читайте в статье на сайте Кальматрон." />
+<meta name="description" content="Гидроизоляция бетона инъекционным способом позволяет реализовать проектные и ремонтные задачи в местах, где иные гидрозащитные подходы не могут быть реализованы, например, при отсутствии прямого доступа к обрабатываемому участку строительной конструкции." />
     <link rel="icon" type="image/png" href="../../favicon-96x96.png" sizes="96x96"/>
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg"/>
     <link rel="shortcut icon" href="../../favicon.ico"/>
@@ -257,7 +257,7 @@
                     </li>
                                                                             </ul></li></ul></li>                                                            <li class="parent menu__item menu-1">
                         <div class="d-flex align-center open-menu-inner">
-                            <a href="../index.html"
+                            <a href="../../solutions/index.html"
                                class="root-item"
                             >Типовые решения</a>
                             <img src="../../assets/static/images/svg/icon-arrow-down-blue.svg"
@@ -265,31 +265,31 @@
                         </div>
                         <ul class="menu__inner">
                                                                                                             <li class="menu__inner-item">
-                        <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
+                        <a href="../../solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                        <a href="../../solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../remont-betona/index.html">Ремонт бетона</a>
+                        <a href="../../solutions/remont-betona/index.html">Ремонт бетона</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                        <a href="../../solutions/likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
+                        <a href="../../solutions/gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
+                        <a href="../../solutions/gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
-                    </li>
-                                                                                                            <li class="menu__inner-item item-selected">
-                        <a href="index.html">Подливка оборудования</a>
+                        <a href="../../solutions/gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
+                        <a href="../../solutions/podlivka-oborudovaniya/index.html">Подливка оборудования</a>
+                    </li>
+                                                                                                            <li class="menu__inner-item">
+                        <a href="../../solutions/remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
                     </li>
                                                                             </ul></li>                                                            <li class="parent menu__item menu-1">
                         <a href="../../objects/ges-lesogorskaya/index.html"
@@ -344,8 +344,8 @@
                         >Оплата и доставка</a>
                     </li>
                                                                                                             <li class="parent menu__item menu-1">
-                        <a href="../../articles/index.html"
-                           class="root-item"
+                        <a href="../index.html"
+                           class="root-item-selected"
                         >Полезные статьи</a>
                     </li>
                                                                                                             <li class="parent menu__item menu-1">
@@ -394,8 +394,8 @@
                     <a href="../../payment-delivery/index.html"
                class="menu-2 color-white header__top-link"
             >Оплата и доставка</a>
-                    <a href="../../articles/index.html"
-               class="menu-2 color-white header__top-link"
+                    <a href="../index.html"
+               class="menu-2 color-white header__top-link selected"
             >Полезные статьи</a>
                     <a href="../../contacts/index.html"
                class="menu-2 color-white header__top-link"
@@ -451,13 +451,13 @@
                             <div class="header__main-contacts">
                                                                 <div class="header__main-contacts">
 									<div class="header-phones js-header-phones">
-										<div class="header-phones__city js-header-phones-city is-active" data-id="0">Ташкент</div>
-										<div class="header-phones__city js-header-phones-city" data-id="1">Ташкент</div>
-										<a class="header-phones__phone js-header-phones-phone is-active" href="tel:+78007001326">+998 90-175-43-48 </a>
-										<a class="header-phones__phone js-header-phones-phone" href="tel:+74952212198">+998 93-501-00-38</a>
+										<div class="header-phones__city js-header-phones-city is-active" data-id="0">Санкт-Петербург</div>
+										<div class="header-phones__city js-header-phones-city" data-id="1">Москва</div>
+										<a class="header-phones__phone js-header-phones-phone is-active" href="tel:+78007001326">8 (800) 700-13-26</a>
+										<a class="header-phones__phone js-header-phones-phone" href="tel:+74952212198">+7 (495) 221-21-98</a>
 										<div class="header-phones__menu">
-											<div class="header-phones__menu-item js-header-phones-menu-item is-active" data-id="0">Ташкент</div>
-											<div class="header-phones__menu-item js-header-phones-menu-item" data-id="1">Ташкент</div>
+											<div class="header-phones__menu-item js-header-phones-menu-item is-active" data-id="0">Санкт-Петербург</div>
+											<div class="header-phones__menu-item js-header-phones-menu-item" data-id="1">Москва</div>
 										</div>
 									</div>
 								</div>
@@ -675,7 +675,7 @@
                     <!-- DEBUG: INDEX: 40, TEXT: Типовые решения, DEPTH_LEVEL: 1, IS_PARENT: 1, CHAIN: Типовые решения, LINK: /solutions/ -->
                 <!-- DEBUG: CLOSING 2 levels for INDEX: 40, TEXT: Типовые решения -->
         </ul></li></ul></li>                <li class="parent menu__item menu-1">
-    <a href="../index.html"
+    <a href="../../solutions/index.html"
        class="root-item"
     >Типовые решения</a>
     <img src="../../assets/static/images/svg/icon-arrow-down-blue.svg"
@@ -683,39 +683,39 @@
     <ul class="menu__inner">
                 <!-- DEBUG: INDEX: 41, TEXT: Гидроизоляция бетона, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция бетона, LINK: /solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/ -->
                                 <li class="menu__inner-item">
-                <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
+                <a href="../../solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 42, TEXT: Гидроизоляция швов с помощью гидрошпонок, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция швов с помощью гидрошпонок, LINK: /solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                <a href="../../solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
             </li>
                     <!-- DEBUG: INDEX: 43, TEXT: Ремонт бетона, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт бетона, LINK: /solutions/remont-betona/ -->
                                 <li class="menu__inner-item">
-                <a href="../remont-betona/index.html">Ремонт бетона</a>
+                <a href="../../solutions/remont-betona/index.html">Ремонт бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 44, TEXT: Ликвидация напорных течей, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ликвидация напорных течей, LINK: /solutions/likvidatsiya-napornykh-techey/ -->
                                 <li class="menu__inner-item">
-                <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                <a href="../../solutions/likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
             </li>
                     <!-- DEBUG: INDEX: 45, TEXT: Гидроизоляция деформационных швов, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция деформационных швов, LINK: /solutions/gidroizolyatsiya-deformatsionnykh-shvov/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
+                <a href="../../solutions/gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
             </li>
                     <!-- DEBUG: INDEX: 46, TEXT: Гидроизоляция кирпича, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция кирпича, LINK: /solutions/gidroizolyatsiya-kirpicha/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
+                <a href="../../solutions/gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
             </li>
                     <!-- DEBUG: INDEX: 47, TEXT: Гидроизоляция вводов трубопровода, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция вводов трубопровода, LINK: /solutions/gidroizolyatsiya-vvodov-truboprovoda/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
+                <a href="../../solutions/gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
             </li>
                     <!-- DEBUG: INDEX: 48, TEXT: Подливка оборудования, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Подливка оборудования, LINK: /solutions/podlivka-oborudovaniya/ -->
-                                <li class="menu__inner-item item-selected">
-                <a href="index.html">Подливка оборудования</a>
+                                <li class="menu__inner-item">
+                <a href="../../solutions/podlivka-oborudovaniya/index.html">Подливка оборудования</a>
             </li>
                     <!-- DEBUG: INDEX: 49, TEXT: Ремонт конструкций в зимнее время, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт конструкций в зимнее время, LINK: /solutions/remont-konstruktsiy-v-zimnee-vremya/ -->
                                 <li class="menu__inner-item">
-                <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
+                <a href="../../solutions/remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
             </li>
                     <!-- DEBUG: INDEX: 50, TEXT: Объекты, DEPTH_LEVEL: 1, IS_PARENT: , CHAIN: Объекты, LINK: /objects/ -->
                 <!-- DEBUG: CLOSING 1 levels for INDEX: 50, TEXT: Объекты -->
@@ -795,83 +795,323 @@
 				<meta itemprop="position" content="1" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a class="breadcrumb__link" href="../index.html" title="Типовые решения" itemprop="item">
-					<span itemprop="name">Типовые решения</span>
+				<a class="breadcrumb__link" href="../index.html" title="Полезные статьи" itemprop="item">
+					<span itemprop="name">Полезные статьи</span>
 				</a>
 				<meta itemprop="position" content="2" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<span class="breadcrumb__current" itemprop="name">Подливка оборудования</span>
+				<span class="breadcrumb__current" itemprop="name">Гидроизоляция бетона методом инъектирования</span>
 				<meta itemprop="position" content="3" />
 			</span></div>			</div>
 		</div>
 	</div>
 </div>
-<div class="article-page" itemid="/solutions/podlivka-oborudovaniya/" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="mainEntityOfPage" href="../../solutions/podlivka-oborudovaniya/index.html">
+<div class="article-page" itemid="/articles/inektirovanie-betona-sovremennyj-metod-gidroizolyacii/" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="mainEntityOfPage" href="/articles/inektirovanie-betona-sovremennyj-metod-gidroizolyacii/">
 	<meta itemprop="author" content="ООО Кальматрон-СПБ">
-	<meta itemprop="datePublished" content="2024-12-03">
-	<meta itemprop="dateModified" content="2024-12-25">
+	<meta itemprop="datePublished" content="2018-06-06">
+	<meta itemprop="dateModified" content="2025-05-26">
     <div class="inner">
         <div class="article-page__main-block">
             <div class="article-page__main-block-inner mobile">
                 <div class="article-page__labels article__labels">
-                                        					                </div>
+                    <p class="article__label">6 июн 2018</p>                    <p class="article__label">8 минут</p>					                </div>
                 <p class="subtitle-3 article-page__title">
-                    Подливка оборудования                </p>
+                    Гидроизоляция бетона методом инъектирования                </p>
             </div>
 
-			            <img itemprop="image" src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" class="article-page__main-block-image" alt="Подливка оборудования">
+			            <img itemprop="image" src="../../upload/iblock/b2a/2yes3o40npvcnu330jshbr971630mjie/12846.jpg" class="article-page__main-block-image" alt="Инъектирование бетона — современный метод гидроизоляции">
 			
             <div class="article-page__main-block-inner desktop">
                 <div class="article-page__labels article__labels">
-                                        					                </div>
+                    <p class="article__label">6 июн 2018</p>                    <p class="article__label">8 минут</p>					                </div>
 
                 <h1 itemprop="headline" class="subtitle-3 article-page__title color-white">
-                    Подливка оборудования                </h1>
+                    Гидроизоляция бетона методом инъектирования                </h1>
             </div>
         </div>
         <div class="article-page__text-block body-l">
             <div itemprop="articleBody">
-				<p>
-	 Высокоточная цементация оборудования — это строительная технология монтажа металлоконструкций и промышленного оборудования на железобетонный фундамент. Для выполнения работ применяется специализированная строительная смесь&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;и&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>. Для качественного выполнения работ эти подливочные составы обладают высокими техническими характеристиками и особыми свойствами такими как:
+									<ul>
+					<li><a href="index.html#1" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_1').offset().top - 100}, 500);">Технология инъекционной гидроизоляции</a></li><li><a href="index.html#2" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_2').offset().top - 100}, 500);">Где применяется инъекционная гидроизоляция</a></li><li><a href="index.html#3" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_3').offset().top - 100}, 500);">Материалы для инъекционной гидроизоляции</a></li><li><a href="index.html#4" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_4').offset().top - 100}, 500);">Этапы проведения работ</a></li><li><a href="index.html#5" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_5').offset().top - 100}, 500);">Преимущества гидроизоляции методом инъектирования</a></li>					</ul>
+					<p>
+ <a href="../../catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/index.html">Гидроизоляция инъектированием</a> — метод восстановления, усиления и защиты стен, фундаментов, плит перекрытий и других конструктивных элементов бетонных сооружений от проникновения воды. Позволяет устранить дефект изнутри материала без вскрытия конструкции. Реализуется с помощью состава <a href="../../catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/index.html">«Кальматрон-Инжект»</a>.
 </p>
-<ul>
-	<li>Высокая прочность.</li>
-	<li>Саморастекаемость.</li>
-	<li>Безусадочность.</li>
-	<li>Высокая адгезия.</li>
-</ul>
+<a id="h2_1"></a><h2>Технология инъекционной гидроизоляции</h2>
 <p>
-	 При установке промышленного оборудования на фундамент важно выставить его по уровню горизонта. Нагрузка должна равномерно распределяться на всю плоскость опоры. Технология высокоточной цементации позволяет без лишних усилий качественно и надежно закрепит оборудование на фундаменте.
+ <b>Гидроизоляция методом инъектирования</b> осуществляется путем нагнетания специального раствора под давлением в заранее пробуренные отверстия. Инъекционным составом заполняют капилляры, трещины, пустоты, полости в конструкциях. После застывания инъекционного раствора происходит усиление конструкции, а также образуется водонепроницаемый барьер, препятствующий фильтрации воды в теле бетона.
 </p>
 <p>
-	 Оборудование устанавливается в заданное положение на временные вставки так чтобы между фундаментом и опорой был зазор 20-50 мм. Положение станины регулируется по уровню горизонта. Далее вокруг станины выставляется опалубка в нее заливается специализированный состав&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;(<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>). Благодаря своей сверхтекучести раствор легко распространяется под станиной и создает идеальную опору без щелей и зазоров.
+	 Смесь нагнетается под контролируемым давлением. Напор рассчитывается с учетом марки прочности бетона, типа конструкции, размера дефектов: он должен быть достаточным для проникновения состава в трещины, поры, полости, но без риска разрушения структуры.
+</p>
+<p>
+	 Для закачки используются разные составы: эпоксидные, акрилатные и проч, — но чаще всего применяют цементные инъекционные материалы, такие как «Кальматрон-Инжект». Они характеризуются высокой совместимостью с минеральной структурой бетона. В отличие от полиуретанов и акрилатов, цементные составы не создают отдельный гидрофобный слой, а интегрируются в тело конструкции, восстанавливают её сплошность и герметичность.
+</p>
+<p>
+	 Технология инъекционной гидроизоляции применяется для усиления существующих железобетонных сооружений, их защиты от воздействия воды, высокой влажности. Она также используется при обнаружении дефектов во время нового строительства.
 </p>
  <div class="article-page__paragraph article-page__paragraph_my">
                 <div class="article-page__slider with-arrows swiper">
                     <div class="swiper-wrapper"><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" alt="Файл галлереии 583">
+                            <img src="../../upload/iblock/6d7/os9z2db8jzsnwgy78jnmonv5988ih7c9/KM_450x450_KALMATRON_INZHEKT_20.jpg" alt="Файл галлереии 1968">
                         </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/f19/g9ltidtft8brgwaf4yplzl5d8l3jf95m/2.jpg" alt="Файл галлереии 584">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/a4b/n7txkep0wg2ptg05hfyp4ajw0nwbsnry/3.jpg" alt="Файл галлереии 585">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/9ff/0ekgy2nwfqnrw3j62zx0rcf726k4w8pk/4.jpg" alt="Файл галлереии 586">
+                            <img src="../../upload/iblock/943/7d8f5vvsfinlld17gpc1yo92ecfbibnv/KM_450x450_KALMATRON_SHOVNYY.jpg" alt="Файл галлереии 1969">
                         </div></div>
                 </div>
 
                 <div class="desktop arrow-next article-arrow-next swiper-button-next"></div>
                 <div class="desktop arrow-prev article-arrow-prev swiper-button-prev"></div>
             </div>
+<a id="h2_2"></a><h2>Где применяется инъекционная гидроизоляция</h2>
 <p>
-	 Высокоточная цементация оборудования — это простая и надежная технология, на сегодняшний день она становится неотъемлемой составляющей качественных строительных работ. Фактически цементация применяется везде, где стальные конструкции устанавливаются на железобетонный фундамент. К таким случаям относятся опоры ЛЭП, стальные колонны, фундаменты обрабатывающих станков и промышленного оборудования.
+	 Инъекционный метод гидроизоляции применяется, когда другие способы защиты от проникновения воды невозможны, неэффективны или требуют больших расходов. Например, при ремонте заглубленной или подземной конструкции: подвала, парковки, тоннеля, цоколя, фундамента.
+</p>
+<p>
+	 Он используется для устранения протечек, герметизации холодных (рабочих) швов и вводов коммуникации. Применяется для заполнения полостей, трещин, а также повышения прочности конструкции, усиления грунтов под фундаментом.
+</p>
+<p>
+	 Основные направления применения:
+</p>
+<p>
+</p>
+<ul>
+	<li>
+	<p>
+		 гидроизоляция трещин в бетоне
+	</p>
+	<p>
+		 Трещины —значительно снижают прочность конструкции и являются одним из путей фильтрации воды в железобетонных конструкциях. Возникают из-за ошибок в технологии строительства, усадки стройматериала, внешнего воздействия и прочих факторов. Бывают мелкими (волосяными), средними и крупными с раскрытием более 10 мм.
+	</p>
+	<p>
+		 Для проведения инъектирования их расшивают на штробы сечением 20×20 мм и зачеканивают ремсоставом <a href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html">«Кальматрон-Шовный»</a>. Затем бурят в определенном порядке шпуры и закачивают в них инъекционный раствор, который благодаря текучести заполняет всё пространство, в том числе микротрещины.
+	</p>
+ </li>
+	<li>
+	<p>
+		 заполнение пустот
+	</p>
+	<p>
+		 Скрытые пустоты образуются в бетоне вследствие неправильного подбора компонентов смеси, преждевременного схватывания, ошибок при заливке бетона и ряда других причин. Гидроизоляция инъекционная позволяет заполнить полости, усилить конструкцию и восстановить ее однородность.
+	</p>
+ </li>
+	<li>
+	<p>
+		 гидроизоляция за бетонную стену или фундамент
+	</p>
+	<p>
+		 При отсутствии доступа к внешней стороне конструкции с помощью инъектирования осуществляют обустройство вуальной гидроизоляции. Суть технологии: растворная смесь нагнетается через отверстия за бетонную стену/фундамент, заполняет контактную зону с грунтом и формирует сплошное водонепроницаемое покрытие.
+	</p>
+ </li>
+</ul>
+<p>
+</p>
+<p>
+	 Инъекционный метод используется на гражданских и промышленных объектах, таких как многоэтажные дома, торговые центры, заводы, административные здания. Он помогает гидроизолировать, усилить и восстановить целостность плит перекрытий, колонн и других элементов постройки.
+</p>
+<p>
+ <img alt="Строительство дома" src="https://kalmatron.ru/upload/medialibrary/a61/7dgw8qikati1j6w2lskrhrsoz7p18dpf/gidro_beton.jpg"><br>
+</p>
+<a id="h2_3"></a><h2>Материалы для инъекционной гидроизоляции</h2>
+<p>
+	 По основному компоненту составы разделяют на:
+</p>
+<p>
+</p>
+<ol>
+	<li>
+	<p>
+ <b>Полиуретановые. </b>Имеют хорошие водоотталкивающие свойства. Сохраняют эластичность даже при температурных колебаниях. Однако могут быть выдавлены из инъекционных каналов или повреждены в результате смещения плиты, чрезмерного напряжения на конструкцию, движения грунта. Обладают высокой стоимостью
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Акрилатные. </b>Устойчивы к воздействию химикатов. Благодаря низкой вязкости заполняют даже мелкие трещины. Среди минусов — некоторые гели теряют свойства при низких температурах и имеют высокую стоимость.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Эпоксидные смолы. </b>Имеют хорошую адгезию со многими стройматериалами, устойчивы к высоким механическим нагрузкам. К недостаткам относят то, что ими можно обрабатывать только сухую поверхность. Если до отверждения конструкция резко пропитается влагой, состав может вытечь из инъекционного канала. &nbsp;Обладают высокой стоимостью.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Цементные составы. </b>Представляют собой сухие смеси на основе портландцемента с микронаполнителем и комплексом добавок для регулирования различных показателей, например, текучести и плотности. Просты в применении и имеют доступную стоимость.
+	</p>
+ </li>
+</ol>
+<p>
+</p>
+<p>
+	 «Кальматрон-Инжект» — это безусадочный инъекционный состав на микроцементной основе. Основные характеристики:
+</p>
+<p>
+</p>
+<ul>
+	<li>
+	<p>
+		 мелкий помол: обеспечивает проникновение в микротрещины;
+	</p>
+ </li>
+	<li>
+	<p>
+		 отсутствие усадки: исключает образование усадочных трещин, зазоров;
+	</p>
+ </li>
+	<li>
+	<p>
+		 хорошая адгезия: гарантирует надежное сцепление раствора с основанием;
+	</p>
+ </li>
+	<li>
+	<p>
+		 высокая морозостойкость - устойчивость к изменениям температуры;
+	</p>
+ </li>
+	<li>
+	<p>
+		 экологичность: не содержит токсичных веществ, не взрывоопасен. Допускается для герметизации ёмкостей для хранения питьевой воды;
+	</p>
+ </li>
+	<li>
+	<p>
+		 экономическая эффективность: имеет отличное соотношение цены/качества;
+	</p>
+ </li>
+	<li>
+	<p>
+		 повышает водонепроницаемость на 4 ступени;
+	</p>
+ </li>
+	<li>
+	<p>
+		 увеличивает морозостойкость на 100 циклов.
+	</p>
+ </li>
+</ul>
+<p>
+</p>
+<p>
+	 «Кальматрон-Инжект» позволяет заполнить трещины и полости, восстановить прочностные характеристики повреждённого бетона. Его использование продлевает срок службы сооружения.
+</p>
+<a id="h2_4"></a><h2>Этапы проведения работ</h2>
+<p>
+	 Инъектирование составом «Кальматрон-Инжект» проводится с помощью шнекового насоса. Для подачи раствора через шпуры применяют пакеры (инъекторы). Работа требует соблюдения технологической последовательности. Выполняется в следующем порядке:
+</p>
+<p>
+</p>
+<ol>
+	<li>
+	<p>
+ <b>Диагностика и проектирование схемы инъектирования</b>
+	</p>
+	<p>
+		 Перед началом оценивают состояние строительного объекта, выясняют причину повреждений. Потом определяют характер дефекта, например, тип трещин (активные или стабилизированные), ширину их раскрытия, степень водонасыщения поврежденного участка. На основе обследования составляют схему размещения инъекционных пакеров с указанием глубины и угла бурения, шагов, порядка закачки.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Подготовка поверхности</b>
+	</p>
+	<p>
+		 Очищают участок для работы. Расшивают трещины на штробы с помощью перфоратора или иного инструмента. После чего их тоже очищают, продувают и увлажняют, затем заделывают ремонтных составом «Кальматрон-Шовный».
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Бурение шпуров</b>
+	</p>
+	<p>
+		 Отверстия (как правило, ⌀18–20 мм) бурят с уклоном, который определяет специалист на стадии подготовки ремонта. При инъектировании трещин угол составляет 60°. Располагают шпуры в шахматном порядке.
+	</p>
+	<p>
+		 На подготовительном этапе также выбирают глубину отверстий: она должна быть такой, чтобы гарантировать попадание смеси в тело повреждения. После бурения отверстия очищают сжатым воздухом и хорошо насыщают водой. Пакеры герметично фиксируют.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Подготовка инъекционного состава</b>
+	</p>
+	<p>
+		 Цементный состав замешивается в соответствии с рекомендациями производителя. Контролируется водоцементное соотношение, продолжительность перемешивания.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Инъектирование</b>
+	</p>
+	<p>
+		 Состав нагнетается через пакеры с помощью шнекового насоса под определенным давлением. Избегают резких скачков давления, чтобы не повредить конструкцию. Заполнение ведется до появления состава из соседнего пакера или достижения отказа подачи. При необходимости процесс повторяют.
+	</p>
+	<p>
+		 При герметизации трещин последовательность перехода от одного инъектора к другому зависит от их расположения: при вертикальном двигаются снизу вверх, при горизонтальном — из одной стороны в другую без пропусков пакеров.
+	</p>
+ </li>
+	<li>
+	<p>
+ <b>Завершение</b>
+	</p>
+	<p>
+		 После отверждения состава инъекторы демонтируют, отверстия зачеканивают ремонтной смесью «Кальматрон-Шовный». После чего для достижения результата в течение трех дней обработанный участок увлажняют.
+	</p>
+ </li>
+</ol>
+<p>
+</p>
+<p>
+	 Грамотно подобранные параметры нагнетания, соблюдение последовательности операций гарантируют надежную герметизацию, восстановление водонепроницаемости конструкции даже при наличии активной фильтрации.
 </p>
 <p style="text-align: center;">
- <a href="../../images/02.05/5.png"><img src="../../images/02.05/5.png"></a>
+ <img alt="как выполняется инъектирование бетона - схема" src="https://kalmatron.ru/upload/articles_images/12846/03-1.jpg" height="300" title="Визуализация процесса"> <img alt="фото процесса работ" src="https://kalmatron.ru/upload/articles_images/12846/03-2.jpg" height="300" title="Фото работы">
+</p>
+<a id="h2_5"></a><h2>Преимущества гидроизоляции методом инъектирования</h2>
+<p>
+	 Метод инъектирования обладает рядом технических и эксплуатационных преимуществ, поэтому он применяется как для гидроизоляции бетонных сооружений, так и для усиления и ремонта конструкций.
 </p>
 <p>
- <a href="../../images/02.05/6.png"><img src="../../images/02.05/6.png"></a>
+	 Основные преимущества инъекционной гидроизоляции с помощью составов на цементной основе:
+</p>
+<p>
+</p>
+<ol>
+	<li>
+	<p>
+		 Минимальное вмешательство в конструкцию, не требуется замены элементов. Работы проводятся без демонтажа или вскрытия бетона, что позволяет ремонтировать фундаменты, перекрытия в эксплуатируемых объектах или подземные сооружения с ограниченным доступом.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Глубокое проникновение и восстановление структуры. Цементный состав проникает в микротрещины и капилляры, восстанавливает герметичность повреждённого участка.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Совместимость с бетоном (по сути является с ним одним целым).
+	</p>
+ </li>
+	<li>
+	<p>
+		 Эффективный, продолжительный результат. Срок службы гидроизоляции зависит от условий эксплуатации, однако даже в условиях воздействия агрессивных сред он составляет более 50 лет.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Универсальность. Инъекция применяется для трещин, швов, стыков, локальных пустот — в жилом, промышленном и инфраструктурном строительстве.
+	</p>
+ </li>
+	<li>
+	<p>
+		 Экономичность. Уменьшает стоимость ремонта, а также время его проведения.
+	</p>
+ </li>
+</ol>
+<p>
+</p>
+<p>
+	 Инъекционная гидроизоляция составом «Кальматрон-Инжект» — надежная технология, сочетающая простоту применения с высокой эффективностью. Она позволяет отремонтировать трещины, остановить протечки, восстановить целостность без разрушения элементов конструкции. Её применение не дает появиться сырости, грибку, плесени даже в условиях повышенной влажности.
+</p>
+<p>
+	 Однако, для полной защиты сооружения от воздействия воды требуется комплекс мер, который включает использование не только инъекционного состава, но и <a href="../../catalog/pronikayushchaya-gidroizolyatsiya/index.html">проникающей гидроизоляции</a>, <a href="../../catalog/elastichnaya-gidroizolyatsiya/index.html">обмазочных эластичных смесей</a> и других гидроизоляционных материалов. Все они также представлены в <a href="../../catalog/index.html">каталоге</a> продукции «Кальматрон».
 </p>
 <br/>
 			</div>
@@ -914,8 +1154,51 @@
 		</div>
 	</div>	
 </div>
+	<div class="typical-technologies mt-block">
+    <div class="inner">
+                    <div class="title-block">
+                <div class="title-block__inner">
+                    <div class="subtitle-2">Рекомендуемая продукция</div>
+                </div>
+            </div>
+                <div class="technologies-slider">
+            <div class="technologies__slider swiper">
+                <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон-Шовный" href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Ремонтные смеси</p>
+                                    <img src="../../upload/iblock/943/7d8f5vvsfinlld17gpc1yo92ecfbibnv/KM_450x450_KALMATRON_SHOVNYY.jpg" alt="Кальматрон-Шовный" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон-Шовный</p>
+                                <div class="bags-list__item-text-block">
 
-<div class="main-articles mt-block">
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Ремонтные смеси<br>Упаковка: бумажные мешки по 25 кг<br>Расход: 0,7                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон-Инжект" href="../../catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Инъекционная (отсечная) гидроизоляция</p>
+                                    <img src="../../upload/iblock/6d7/os9z2db8jzsnwgy78jnmonv5988ih7c9/KM_450x450_KALMATRON_INZHEKT_20.jpg" alt="Кальматрон-Инжект" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон-Инжект</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Инъекционная (отсечная) гидроизоляция<br>Упаковка: бумажные мешки по 20 кг<br>Расход: 1400 кг/м³ раствора                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="desktop arrow-next technologies-arrow-next swiper-button-next"></div>
+            <div class="desktop arrow-prev technologies-arrow-prev swiper-button-prev"></div>
+        </div>
+    </div>
+</div>	<div class="main-articles mt-block">
     <div class="inner">
         <div class="title-block">
             <div class="title-block__inner">
@@ -923,46 +1206,46 @@
             </div>
         </div>
         <div class="small-articles">
-			            <a data-id="546" href="../gidroizolyatsiya-vvodov-truboprovoda/index.html" class="small-article">
+			            <a data-id="331" href="https://kalmatron.ru/articles/polimernaya-gidroizolyaciya/" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">3 дек 2024</p>
+                        <p class="article__label">24 окт 2013</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="small-article__image" alt="Гидроизоляция вводов трубопровода">
+                    <img src="https://kalmatron.ru/upload/iblock/8f0/i7hrnulpr7xnx2gzst6lpf3m7vzec5sy/245.jpg" class="small-article__image" alt="Полимерная гидроизоляция">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция вводов трубопровода                    </p>
+                        Полимерная гидроизоляция                    </p>
                 </div>
             </a>
-			            <a data-id="84" href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html" class="small-article">
+			            <a data-id="361" href="https://kalmatron.ru/articles/bokovaya-gidroizolyaciya/" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">5 окт 2024</p>
+                        <p class="article__label">17 фев 2014</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/1f3/adogf173w7utgat2uduzan3l3j1plsjl/3.jpg" class="small-article__image" alt="Гидроизоляция бетона">
+                    <img src="https://kalmatron.ru/upload/iblock/cbe/atnzul6amtwu7s24sgfh04tjgd7rvpm3/2716.jpeg" class="small-article__image" alt="Боковая гидроизоляция">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция бетона                    </p>
+                        Боковая гидроизоляция                    </p>
                 </div>
             </a>
-			            <a data-id="512" href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html" class="small-article">
+			            <a data-id="1804" href="../dobavki-v-beton/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">26 ноя 2024</p>
-                                                                    </div>
+                        <p class="article__label">10 фев 2025</p>
+                        <p class="article__label">6 минут</p>                                            </div>
 
-                    <img src="../../upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg" class="small-article__image" alt="Гидроизоляция швов с помощью гидрошпонок">
+                    <img src="../../upload/medialibrary/015/76kjndvgnxunl0x6qrgipkgvwdebghrl/dobavki-v-beton-anons.jpg" class="small-article__image" alt="Добавки в бетон">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция швов с помощью гидрошпонок                    </p>
+                        Добавки в бетон                    </p>
                 </div>
             </a>
 			        </div>
@@ -971,7 +1254,7 @@
     <div class="inner">
         <div class="d-flex justify-center">
             <form class="bq-form feedback__form"
-                  id="bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40"
+                  id="bquadro-form-a32d8fb8518964026070289196547fea02d28e97"
                   data-modal="feedback"
                   novalidate>
                 <input type="hidden" name="sessid" id="sessid" value="" />                <div class="bq-form-inner js-bq-form-inner">
@@ -989,7 +1272,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_NAME"
+                                                       id="a32d8fb8518964026070289196547fea02d28e97_NAME"
                                                        name="NAME"
                                                        placeholder="Ваше имя *"
                                                        value=""
@@ -1003,7 +1286,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_CONTACT"
+                                                       id="a32d8fb8518964026070289196547fea02d28e97_CONTACT"
                                                        name="CONTACT"
                                                        placeholder="Телефон или EMAIL *"
                                                        value=""
@@ -1017,7 +1300,7 @@
                                             >
                                                 <textarea class="bq-form-textarea input input_light-gray feedback__input"
                                                           rows="3"
-                                                          id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_QUESTION"
+                                                          id="a32d8fb8518964026070289196547fea02d28e97_QUESTION"
                                                           name="QUESTION"
                                                           placeholder="Ваш вопрос *"
                                                                                                                     autocomplete="off"
@@ -1059,8 +1342,8 @@
                     <a href="../../catalog/index.html"
                class="footer__link menu-1"
             >Каталог</a>
-                    <a href="../index.html"
-               class="footer__link menu-1 selected"
+                    <a href="../../solutions/index.html"
+               class="footer__link menu-1"
             >Типовые решения</a>
                     <a href="../../objects/ges-lesogorskaya/index.html"
                class="footer__link menu-1"
@@ -1080,8 +1363,8 @@
                     <a href="../../payment-delivery/index.html"
                class="footer__link menu-1"
             >Оплата и доставка</a>
-                    <a href="../../articles/index.html"
-               class="footer__link menu-1"
+                    <a href="../index.html"
+               class="footer__link menu-1 selected"
             >Полезные статьи</a>
                     <a href="../../contacts/index.html"
                class="footer__link menu-1"
@@ -1103,13 +1386,13 @@
                 </div>
                 <div class="footer__contacts-social">
                     <div class="footer__contacts-social-top">
-                        <div id="bxdynamic_d42sdq_start" style="display:none"></div><!--noindex-->
+                        <div id="bxdynamic_CpmJaV_start" style="display:none"></div><!--noindex-->
 <div class="footer__social-links">
 		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="footer__social-link social-link white ">
 		<img src="../../upload/iblock/64b/svof70p3h26541f2dcwsemg85ej7fa4y/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
-<!--/noindex--><div id="bxdynamic_d42sdq_end" style="display:none"></div>                        <div class="desktop">
+<!--/noindex--><div id="bxdynamic_CpmJaV_end" style="display:none"></div>                        <div class="desktop">
                             <div class="btn primary-btn minify js-bq-form-popup-open"
                                 data-iblock="callback"
                                 data-template="popup"
@@ -1196,7 +1479,7 @@
         }
 		
 		jsControl = new JCTitleSearch2({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/articles/inektirovanie-betona-sovremennyj-metod-gidroizolyacii/',
 			'CONTAINER_ID': 'title-search',
 			'INPUT_ID': 'title-search-input',
 			'INPUT_ID_TMP': 'title-search-input',
@@ -1214,7 +1497,7 @@
         }
 		
 		jsControl = new JCTitleSearch3({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/articles/inektirovanie-betona-sovremennyj-metod-gidroizolyacii/',
 			'CONTAINER_ID': 'title-search-mobile',
 			'INPUT_ID': 'title-search-input-mobile',
 			'INPUT_ID_TMP': 'title-search-input-mobile',
@@ -1225,9 +1508,9 @@
 </script><script class="js-bq-form-script">
                 new BquadroForm({
                     params: {'IBLOCK_ID':'feedback','IBLOCK_TYPE':'forms','TITLE':'Остались вопросы?','DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','GOAL':'ostalis-voprosy','CACHE_TYPE':'A','TYPE':'','~IBLOCK_ID':'feedback','~IBLOCK_TYPE':'forms','~TITLE':'Остались вопросы?','~DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','~SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','~GOAL':'ostalis-voprosy','~CACHE_TYPE':'A','~TYPE':''},
-                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
+                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-a32d8fb8518964026070289196547fea02d28e97','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
             </script>
 <script  src="../../bitrix/cache/js/s1/kalmatron/template_a168bd841f75c9187efdaaff729553ab/template_a168bd841f75c9187efdaaff729553ab_v1.js@1760597754510771"></script>
 
 </body>
-</html><!--cb99555e38cc5d933e8f9d554477cae7-->
+</html><!--17ec8f589d5ac2f51afb0c1f3dd32796-->

@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Подливка оборудования — типовые решения «Кальматрон»</title>
+    <title>Гидроизоляция для кирпича: виды и их преимущества</title>
         <script data-skip-moving="true">
         var arSiteOptions = {'USER_ID':'0','DOMAIN':'','SITE_TEMPLATE_PATH':'/local/templates/kalmatron','API_URL':'/api/','SITE_DIR':'/','SCROLLTOTOP_TYPE':'ROUND_COLOR','SCROLLTOTOP_POSITION':'PADDING','SCROLLTOTOP_POSITION_RIGHT':'','SCROLLTOTOP_POSITION_BOTTOM':'','USE_FORMS_GOALS':'NONE','PHONE_MASK':'+7 (999) 999-99-99','VALIDATE_PHONE_MASK':'^[+]7 [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$','VALIDATE_FILE_EXT':'png|jpg|jpeg|gif|svg|doc|docx|xls|xlsx|txt|pdf|odt|rtf'};
     </script>
     <link rel="canonical" href="index.html"/>
     <style type="text/css">.bx-composite-btn {background: url(../../bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(../../bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(../../bitrix/images/main/composite/loading.gif);}</style>
-<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a478d742b29e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"97e6c13c9d10","rIpOz9":"9623efa75886","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"0162db45a558","7DqYyc":"257a2af22d30","XEVOpk":"4c420220ace3","jmonnO":"584240393a1b","g8taYv":"b2c5acb788f9","rIpOz9":"fe2e8211a5db","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
@@ -25,21 +25,21 @@
 
 
 <!-- dev2fun module opengraph -->
-<meta property="og:title" content="Подливка оборудования &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
-<meta property="og:description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы &laquo;Кальматрон&raquo; применяют для высокоточной цементации оборудования, по..."/>
-<meta property="og:url" content="https://kalmatron.ru/solutions/podlivka-oborudovaniya/"/>
+<meta property="og:title" content="Гидроизоляция для кирпича: виды и их преимущества"/>
+<meta property="og:description" content="Кирпич является одним из самых применяемых отделочных материалов. Зачастую при его использовании проводится гидроизоляция кирпичных стен. В данной статье мы рас..."/>
+<meta property="og:url" content="https://kalmatron.ru/articles/pronikayushchaya-gidroizolyaciya-dlya-kirpicha/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Кальматрон"/>
-<meta property="og:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image" content="https://kalmatron.ru/upload/iblock/8c5/qd492eblcinbd761fqu30vswj86lqsu4/18656.jpg"/>
 <meta property="og:image:type" content="image/jpeg"/>
-<meta property="og:image:width" content="707"/>
-<meta property="og:image:height" content="398"/>
-<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image:width" content="700"/>
+<meta property="og:image:height" content="348"/>
+<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/8c5/qd492eblcinbd761fqu30vswj86lqsu4/18656.jpg"/>
 <!-- /dev2fun module opengraph -->
 
 
 
-<meta name="description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы «Кальматрон» применяют для высокоточной цементации оборудования, подливки под металлоконструкции. Подробнее читайте в статье на сайте Кальматрон." />
+<meta name="description" content="Кирпич является одним из самых применяемых отделочных материалов. Зачастую при его использовании проводится гидроизоляция кирпичных стен. В данной статье мы расскажем, как выполнить проникающую гидроизоляцию для кирпича." />
     <link rel="icon" type="image/png" href="../../favicon-96x96.png" sizes="96x96"/>
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg"/>
     <link rel="shortcut icon" href="../../favicon.ico"/>
@@ -257,7 +257,7 @@
                     </li>
                                                                             </ul></li></ul></li>                                                            <li class="parent menu__item menu-1">
                         <div class="d-flex align-center open-menu-inner">
-                            <a href="../index.html"
+                            <a href="../../solutions/index.html"
                                class="root-item"
                             >Типовые решения</a>
                             <img src="../../assets/static/images/svg/icon-arrow-down-blue.svg"
@@ -265,31 +265,31 @@
                         </div>
                         <ul class="menu__inner">
                                                                                                             <li class="menu__inner-item">
-                        <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
+                        <a href="../../solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                        <a href="../../solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../remont-betona/index.html">Ремонт бетона</a>
+                        <a href="../../solutions/remont-betona/index.html">Ремонт бетона</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                        <a href="../../solutions/likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
+                        <a href="../../solutions/gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
+                        <a href="../../solutions/gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
-                    </li>
-                                                                                                            <li class="menu__inner-item item-selected">
-                        <a href="index.html">Подливка оборудования</a>
+                        <a href="../../solutions/gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
-                        <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
+                        <a href="../../solutions/podlivka-oborudovaniya/index.html">Подливка оборудования</a>
+                    </li>
+                                                                                                            <li class="menu__inner-item">
+                        <a href="../../solutions/remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
                     </li>
                                                                             </ul></li>                                                            <li class="parent menu__item menu-1">
                         <a href="../../objects/ges-lesogorskaya/index.html"
@@ -344,8 +344,8 @@
                         >Оплата и доставка</a>
                     </li>
                                                                                                             <li class="parent menu__item menu-1">
-                        <a href="../../articles/index.html"
-                           class="root-item"
+                        <a href="../index.html"
+                           class="root-item-selected"
                         >Полезные статьи</a>
                     </li>
                                                                                                             <li class="parent menu__item menu-1">
@@ -394,8 +394,8 @@
                     <a href="../../payment-delivery/index.html"
                class="menu-2 color-white header__top-link"
             >Оплата и доставка</a>
-                    <a href="../../articles/index.html"
-               class="menu-2 color-white header__top-link"
+                    <a href="../index.html"
+               class="menu-2 color-white header__top-link selected"
             >Полезные статьи</a>
                     <a href="../../contacts/index.html"
                class="menu-2 color-white header__top-link"
@@ -451,13 +451,13 @@
                             <div class="header__main-contacts">
                                                                 <div class="header__main-contacts">
 									<div class="header-phones js-header-phones">
-										<div class="header-phones__city js-header-phones-city is-active" data-id="0">Ташкент</div>
-										<div class="header-phones__city js-header-phones-city" data-id="1">Ташкент</div>
-										<a class="header-phones__phone js-header-phones-phone is-active" href="tel:+78007001326">+998 90-175-43-48 </a>
-										<a class="header-phones__phone js-header-phones-phone" href="tel:+74952212198">+998 93-501-00-38</a>
+										<div class="header-phones__city js-header-phones-city is-active" data-id="0">Санкт-Петербург</div>
+										<div class="header-phones__city js-header-phones-city" data-id="1">Москва</div>
+										<a class="header-phones__phone js-header-phones-phone is-active" href="tel:+78007001326">8 (800) 700-13-26</a>
+										<a class="header-phones__phone js-header-phones-phone" href="tel:+74952212198">+7 (495) 221-21-98</a>
 										<div class="header-phones__menu">
-											<div class="header-phones__menu-item js-header-phones-menu-item is-active" data-id="0">Ташкент</div>
-											<div class="header-phones__menu-item js-header-phones-menu-item" data-id="1">Ташкент</div>
+											<div class="header-phones__menu-item js-header-phones-menu-item is-active" data-id="0">Санкт-Петербург</div>
+											<div class="header-phones__menu-item js-header-phones-menu-item" data-id="1">Москва</div>
 										</div>
 									</div>
 								</div>
@@ -675,7 +675,7 @@
                     <!-- DEBUG: INDEX: 40, TEXT: Типовые решения, DEPTH_LEVEL: 1, IS_PARENT: 1, CHAIN: Типовые решения, LINK: /solutions/ -->
                 <!-- DEBUG: CLOSING 2 levels for INDEX: 40, TEXT: Типовые решения -->
         </ul></li></ul></li>                <li class="parent menu__item menu-1">
-    <a href="../index.html"
+    <a href="../../solutions/index.html"
        class="root-item"
     >Типовые решения</a>
     <img src="../../assets/static/images/svg/icon-arrow-down-blue.svg"
@@ -683,39 +683,39 @@
     <ul class="menu__inner">
                 <!-- DEBUG: INDEX: 41, TEXT: Гидроизоляция бетона, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция бетона, LINK: /solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/ -->
                                 <li class="menu__inner-item">
-                <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
+                <a href="../../solutions/innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 42, TEXT: Гидроизоляция швов с помощью гидрошпонок, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция швов с помощью гидрошпонок, LINK: /solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                <a href="../../solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
             </li>
                     <!-- DEBUG: INDEX: 43, TEXT: Ремонт бетона, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт бетона, LINK: /solutions/remont-betona/ -->
                                 <li class="menu__inner-item">
-                <a href="../remont-betona/index.html">Ремонт бетона</a>
+                <a href="../../solutions/remont-betona/index.html">Ремонт бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 44, TEXT: Ликвидация напорных течей, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ликвидация напорных течей, LINK: /solutions/likvidatsiya-napornykh-techey/ -->
                                 <li class="menu__inner-item">
-                <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                <a href="../../solutions/likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
             </li>
                     <!-- DEBUG: INDEX: 45, TEXT: Гидроизоляция деформационных швов, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция деформационных швов, LINK: /solutions/gidroizolyatsiya-deformatsionnykh-shvov/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
+                <a href="../../solutions/gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
             </li>
                     <!-- DEBUG: INDEX: 46, TEXT: Гидроизоляция кирпича, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция кирпича, LINK: /solutions/gidroizolyatsiya-kirpicha/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
+                <a href="../../solutions/gidroizolyatsiya-kirpicha/index.html">Гидроизоляция кирпича</a>
             </li>
                     <!-- DEBUG: INDEX: 47, TEXT: Гидроизоляция вводов трубопровода, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция вводов трубопровода, LINK: /solutions/gidroizolyatsiya-vvodov-truboprovoda/ -->
                                 <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
+                <a href="../../solutions/gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
             </li>
                     <!-- DEBUG: INDEX: 48, TEXT: Подливка оборудования, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Подливка оборудования, LINK: /solutions/podlivka-oborudovaniya/ -->
-                                <li class="menu__inner-item item-selected">
-                <a href="index.html">Подливка оборудования</a>
+                                <li class="menu__inner-item">
+                <a href="../../solutions/podlivka-oborudovaniya/index.html">Подливка оборудования</a>
             </li>
                     <!-- DEBUG: INDEX: 49, TEXT: Ремонт конструкций в зимнее время, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт конструкций в зимнее время, LINK: /solutions/remont-konstruktsiy-v-zimnee-vremya/ -->
                                 <li class="menu__inner-item">
-                <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
+                <a href="../../solutions/remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
             </li>
                     <!-- DEBUG: INDEX: 50, TEXT: Объекты, DEPTH_LEVEL: 1, IS_PARENT: , CHAIN: Объекты, LINK: /objects/ -->
                 <!-- DEBUG: CLOSING 1 levels for INDEX: 50, TEXT: Объекты -->
@@ -795,83 +795,187 @@
 				<meta itemprop="position" content="1" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_1" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a class="breadcrumb__link" href="../index.html" title="Типовые решения" itemprop="item">
-					<span itemprop="name">Типовые решения</span>
+				<a class="breadcrumb__link" href="../index.html" title="Полезные статьи" itemprop="item">
+					<span itemprop="name">Полезные статьи</span>
 				</a>
 				<meta itemprop="position" content="2" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<span class="breadcrumb__current" itemprop="name">Подливка оборудования</span>
+				<span class="breadcrumb__current" itemprop="name">Проникающая гидроизоляция для кирпича</span>
 				<meta itemprop="position" content="3" />
 			</span></div>			</div>
 		</div>
 	</div>
 </div>
-<div class="article-page" itemid="/solutions/podlivka-oborudovaniya/" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="mainEntityOfPage" href="../../solutions/podlivka-oborudovaniya/index.html">
+<div class="article-page" itemid="/articles/pronikayushchaya-gidroizolyaciya-dlya-kirpicha/" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="mainEntityOfPage" href="/articles/pronikayushchaya-gidroizolyaciya-dlya-kirpicha/">
 	<meta itemprop="author" content="ООО Кальматрон-СПБ">
-	<meta itemprop="datePublished" content="2024-12-03">
-	<meta itemprop="dateModified" content="2024-12-25">
+	<meta itemprop="datePublished" content="2022-12-29">
+	<meta itemprop="dateModified" content="2025-02-07">
     <div class="inner">
         <div class="article-page__main-block">
             <div class="article-page__main-block-inner mobile">
                 <div class="article-page__labels article__labels">
-                                        					                </div>
+                    <p class="article__label">29 дек 2022</p>                    					                </div>
                 <p class="subtitle-3 article-page__title">
-                    Подливка оборудования                </p>
+                    Проникающая гидроизоляция для кирпича                </p>
             </div>
 
-			            <img itemprop="image" src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" class="article-page__main-block-image" alt="Подливка оборудования">
+			            <img itemprop="image" src="../../upload/iblock/8c5/qd492eblcinbd761fqu30vswj86lqsu4/18656.jpg" class="article-page__main-block-image" alt="Проникающая гидроизоляция для кирпича">
 			
             <div class="article-page__main-block-inner desktop">
                 <div class="article-page__labels article__labels">
-                                        					                </div>
+                    <p class="article__label">29 дек 2022</p>                    					                </div>
 
                 <h1 itemprop="headline" class="subtitle-3 article-page__title color-white">
-                    Подливка оборудования                </h1>
+                    Проникающая гидроизоляция для кирпича                </h1>
             </div>
         </div>
         <div class="article-page__text-block body-l">
             <div itemprop="articleBody">
-				<p>
-	 Высокоточная цементация оборудования — это строительная технология монтажа металлоконструкций и промышленного оборудования на железобетонный фундамент. Для выполнения работ применяется специализированная строительная смесь&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;и&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>. Для качественного выполнения работ эти подливочные составы обладают высокими техническими характеристиками и особыми свойствами такими как:
-</p>
-<ul>
-	<li>Высокая прочность.</li>
-	<li>Саморастекаемость.</li>
-	<li>Безусадочность.</li>
-	<li>Высокая адгезия.</li>
-</ul>
-<p>
-	 При установке промышленного оборудования на фундамент важно выставить его по уровню горизонта. Нагрузка должна равномерно распределяться на всю плоскость опоры. Технология высокоточной цементации позволяет без лишних усилий качественно и надежно закрепит оборудование на фундаменте.
+									<ul>
+					<li><a href="index.html#1" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_1').offset().top - 100}, 500);">Зачем проводить гидроизоляцию кирпичной кладки?</a></li><li><a href="index.html#2" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_2').offset().top - 100}, 500);">Преимущества использования проникающей гидроизоляции для кирпича</a></li><li><a href="index.html#3" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_3').offset().top - 100}, 500);">Этапы работ</a></li><li><a href="index.html#4" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_4').offset().top - 100}, 500);">Виды</a></li><li><a href="index.html#5" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_5').offset().top - 100}, 500);">Распространенные гидроизоляционные материалы</a></li><li><a href="index.html#6" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_6').offset().top - 100}, 500);">Устройство горизонтальной гидроизоляции</a></li><li><a href="index.html#7" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_7').offset().top - 100}, 500);">Проникающая гидроизоляция для кирпича</a></li><li><a href="index.html#8" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_8').offset().top - 100}, 500);">Обработка стен снаружи и изнутри</a></li><li><a href="index.html#9" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_9').offset().top - 100}, 500);">Защита фундамента и цокольного этажа</a></li>					</ul>
+					<p>
+	 Кирпич является наиболее востребованным материалом, так как обладает прочностью и морозостойкостью. Однако из-за пористой поверхности он хорошо впитывает воду. За счет этого влага, содержащаяся в воздухе или фундаменте дома, скапливается внутри камня. Зимой замерзшая в порах и капиллярах жидкость медленно, но верно разрушает его целостность. Чтобы этого не допустить, выполняют гидроизоляцию стен.
 </p>
 <p>
-	 Оборудование устанавливается в заданное положение на временные вставки так чтобы между фундаментом и опорой был зазор 20-50 мм. Положение станины регулируется по уровню горизонта. Далее вокруг станины выставляется опалубка в нее заливается специализированный состав&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;(<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>). Благодаря своей сверхтекучести раствор легко распространяется под станиной и создает идеальную опору без щелей и зазоров.
-</p>
- <div class="article-page__paragraph article-page__paragraph_my">
-                <div class="article-page__slider with-arrows swiper">
-                    <div class="swiper-wrapper"><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" alt="Файл галлереии 583">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/f19/g9ltidtft8brgwaf4yplzl5d8l3jf95m/2.jpg" alt="Файл галлереии 584">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/a4b/n7txkep0wg2ptg05hfyp4ajw0nwbsnry/3.jpg" alt="Файл галлереии 585">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/9ff/0ekgy2nwfqnrw3j62zx0rcf726k4w8pk/4.jpg" alt="Файл галлереии 586">
-                        </div></div>
-                </div>
-
-                <div class="desktop arrow-next article-arrow-next swiper-button-next"></div>
-                <div class="desktop arrow-prev article-arrow-prev swiper-button-prev"></div>
-            </div>
-<p>
-	 Высокоточная цементация оборудования — это простая и надежная технология, на сегодняшний день она становится неотъемлемой составляющей качественных строительных работ. Фактически цементация применяется везде, где стальные конструкции устанавливаются на железобетонный фундамент. К таким случаям относятся опоры ЛЭП, стальные колонны, фундаменты обрабатывающих станков и промышленного оборудования.
+	 Наиболее часто такие работы проводят по технологии <a href="../../catalog/pronikayushchaya-gidroizolyatsiya/index.html">проникающей гидроизоляции</a> для кирпичной кладки. Материал наносится в в виде штукартурки. Его активные компоненты заполняют поры, трещины и капиляры в кладочном растворе, а так же создают водонепроницаемый слой на поверхности, который препятствует проникновению влаги, при этом отводит водяной пар от стены (поверхность остается дышащей).
 </p>
 <p style="text-align: center;">
- <a href="../../images/02.05/5.png"><img src="../../images/02.05/5.png"></a>
+ <img alt="Нанесение смеси кистью" src="https://kalmatron.ru/upload/articles_images/18656/image011_6743420.jpg" title="Нанесение гидроизоляции кистью">
+</p>
+<a id="h2_1"></a><h2>Зачем проводить гидроизоляцию кирпичной кладки?</h2>
+<p>
+	 Одной из наиболее важных стадий возведения зданий из кирпича является защита кладки от влаги. Увлажнение стен, как правило, вызвано атмосферными осадками, влажным воздухом, капиллярным подсосом грунтовых вод, утечками воды из водопровода, нарушениями в работе водосточных систем. Если защита отсутствует, исчезают все преимущества кирпича: снижается морозостойкость и долговечность. Намокшая стена теряет теплоизоляционные характеристики, соответствующие воздушно-сухому состоянию, и подвержена появлению трещин в результате замерзания. Масштаб проблем растет в связи с распространением влаги по капиллярам пористого кирпича, как по площади, так и вглубь стены.
 </p>
 <p>
- <a href="../../images/02.05/6.png"><img src="../../images/02.05/6.png"></a>
+	 Наибольшую угрозу для долговечности кладки представляет нахождение кирпича долгое время в среде с повышенной влажностью (подвалы, ванные, душевые, подтопленные помещения и т. п.). При этом поглощаемая из воздуха вода нарушает микроклимат помещения, разрушает отделку, провоцирует появление плесени и трещин несущих конструкций. Длительное водонасыщение кирпичной стены может привести к ее разрушению, что недопустимо.
+</p>
+<a id="h2_2"></a><h2>Преимущества использования проникающей гидроизоляции для кирпича</h2>
+<p>
+	 Метод отличается универсальностью — обеспечивает создание гидроизоляционных покрытий как внутри, так и снаружи строения. Также технология имеет и другие достоинства:
+</p>
+<ul>
+	<li>Отличается безопасностью для человека.</li>
+	<li>Повышает устойчивость кладки к химическим веществам.</li>
+	<li>Надежно защищает металлические элементы конструкции от коррозии.</li>
+	<li>Не требует последующей грунтовки.</li>
+	<li>Эффективна тогда, когда невозможно достичь результата другими методами.</li>
+</ul>
+<p>
+	 Данный вид обработки может производиться как в процессе возведения здания, так и при его эксплуатации.
+</p>
+<a id="h2_3"></a><h2>Этапы работ</h2>
+<p>
+	 Типовая гидроизоляция кирпича выполняется в несколько шагов:
+</p>
+<ul>
+	<li>Оценка состояния кладки и возможности доступа к объекту снаружи здания, выбор технологии и материалов для защиты.</li>
+	<li>Подготовка кирпичной стены. Поверхность тщательно зачищается от масляных пятен и краски, удаляется старая штукатурка, чтобы обеспечить наилучшие условия для проникания состава внутрь кирпича. Плесень удаляется нанесением антисептика. Герметизируются проемы для ввода коммуникаций.</li>
+	<li>Нанесение на стены гидроизоляционного состава.</li>
+</ul>
+<p>
+	 Технология гидроизоляции кирпича должна предусматривать комплекс мер по защите здания от влаги. К примеру, если не выполнена отсечная изоляция стены от фундамента, трудно ожидать эффекта от обработки кирпича проникающим составом. Поэтому данные работы лучше всего доверить специализированной компании.
+</p>
+<a id="h2_4"></a><h2>Виды</h2>
+<p>
+	 Гидроизоляция может производиться снаружи или изнутри строения. Предпочтительно выполнять работы с внешней стороны кирпичной стены, так как при надежной защите снаружи решается проблема с проникновением влаги в структуру кирпича. Данный метод подходит для любых типов строений, фундаментов, подвалов и цокольных этажей с комплексным использованием различных типов материалов.
+</p>
+<p style="text-align: center;">
+ <img alt="Гидроизоляция кирпичной кладки" src="https://kalmatron.ru/upload/articles_images/18656/image013_6743420.png" title="Обработка кирпичной стены снаружи">
+</p>
+<p>
+	 Внутренняя гидроизоляция проводится, если нет возможности защитить здание снаружи. Как правило, это актуально для уже построенных домов с завершенной отделкой фасада. Такие работы направлены на борьбу с последствиями нарушений в работе наружной изоляции. Применение в этой ситуации битумных мастик, ПВХ-мембран и рулонных материалов затруднено, так как изоляция работает на отрицательное давление, а материалы — только на прижим. Возможный выход — прижать материалы дополнительной стеной, но это достаточно затратный вариант. Оптимальным решением будет обработка кирпича проникающими составами изнутри.
+</p>
+<a id="h2_5"></a><h2>Распространенные гидроизоляционные материалы</h2>
+<p>
+	 Строительный рынок предлагает различные средства для защиты кирпичных стен. Основу проникающих смесей составляет цемент, песок и активные добавки.
+</p>
+<p>
+ <span style="font-weight: bold;">Наиболее распространенные составы глубокого проникновения:</span>
+</p>
+<p>
+ <img alt="Товар Кальматрон" src="https://kalmatron.ru/upload/articles_images/18656/pr1.jpg" style="float: left; margin-right: 10px; width: 180px;" title="Кальматрон"> <span style="font-weight: bold;"><a href="../../catalog/pronikayushchaya-gidroizolyatsiya/index.html">«Кальматрон»</a></span> — линейка гидроизоляции глубокого проникновения отечественного производителя. Состав смеси соответствует ГОСТ 34669-2020: портландцемент, песок определенной фракции, химически активные реагенты. Защитные смеси применяют для наружной защиты кирпичной кладки и монолитных бетонов, при ликвидации течей. Активные компоненты создают в порах материала труднорастворимые кристаллы, защищающие от проникновения влаги, но пропускающие воздух. При этом они обладают уникальным свойством самовосстановления при повреждении гидроизоляции кладки. Экологически чистый продукт, может применяться для резервуаров с питьевой водой, устойчив к нефтепродуктам.
+</p>
+<div style="clear: both;">
+</div>
+<p style="text-align: center;">
+	 <iframe frameborder="0" src="https://www.youtube.com/embed/JaqYMHq_-44" width="560" height="315"></iframe>
+</p>
+<div style="clear: both; height: 20px;">
+</div>
+<p>
+ <img alt="Товар Пенетрон" src="https://kalmatron.ru/upload/articles_images/18656/pr2.jpg" style="float: left; margin-right: 10px; width: 180px;" title="Пенетрон"> <span style="font-weight: bold;">«Пенетрон»</span> — смесь из кварцевого песка, нескольких марок цемента и активных веществ. Применяется для обработки кирпичной кладки, бетонных строений и штукатурки. Глубина проникновения — до 1 м. Материал экологически чистый, может наноситься кистью снаружи и изнутри здания.
+</p>
+<p>
+ <span style="font-weight: bold;">«Ватерплаг»</span> — гидроизоляция, применяемая совместно с «Пeнeтрoном». Состав из алюминатного цемента, кварцевого песка и активных добавок дает смеси способность к расширению и быстрому схватыванию. С ее помощью легко устранять течи в кирпичных стенах. Средство отличает экологичность, поэтому его использование разрешено в конструкциях подачи воды.
+</p>
+<div class="flex-vid">
+ <img alt="Товар Хурех" src="https://kalmatron.ru/upload/articles_images/18656/pr3.jpg" style="margin-right: 10px; width: 180px;" title="Хурех">
+	<p>
+ <span style="font-weight: bold;">«Хурех»</span> — гидроизоляция, которая имеет в своем составе цемент и активные компоненты, создающие защиту кирпича от проникновения воды и хлоридов. Принцип действия защиты основан на попадании активного вещества в каверны материала. Когда оно контактирует с водой, создается нерастворимое соединение, закупоривающее капилляры. Производится в Канаде.
+	</p>
+</div>
+<div class="flex-vid">
+ <img alt="Товар Isоmаt Аquаmаt" src="https://kalmatron.ru/upload/articles_images/18656/pr4.jpg" style="margin-right: 10px; width: 180px;" title="Isоmаt Аquаmаt">
+	<p>
+ <span style="font-weight: bold;">Isоmаt Аquаmаt</span> — гидроизоляция обмазочного типа. Используется предпочтительно как защитный слой бассейнов, колодцев, емкостей и других гидротехнических сооружений для подачи и хранения воды. Средство обеспечивает максимальную защиту конструкций от влаги и коррозии.
+	</p>
+</div>
+<p>
+	 Можно отметить, что проникающая гидроизоляция выпускается в широком ассортименте, является экологически чистой и может использоваться на уже эксплуатируемых объектах. Ее применение обеспечивает комплексную защиту кирпича: отсекается капиллярный подсос влаги из фундамента (в бетон добавляются проникающие средства при его замешивании), состав препятствует поглощению воды из воздуха (стены снаружи и изнутри обрабатываются защитными смесями). Для ремонта предложены быстротвердеющие средства, которые устраняют течи.
+</p>
+<a id="h2_6"></a><h2>Устройство горизонтальной гидроизоляции</h2>
+<p>
+	 Если дом находится в стадии возведения, например построен только фундамент, защита кирпича осуществляется до начала кладки посредством горизонтальной изоляции. Для ее организации подойдут рулонные материалы на основе битума (рубероид, отсечная гидроизоляция «ТЕХНОНИКОЛЬ»). При выборе изоляции стоит обратить внимание на прочность, эластичность и долговечность материала, так как он не подлежит замене при эксплуатации дома. В этой ситуации выигрышно смотрится бетонный фундамент, изготовленный с применением пенетрирующих добавок.
+</p>
+<p>
+	 Случается так, что в готовом здании горизонтальная изоляция приходит в негодность. Обычно это старые строения, возведенные с использованием недолговечных гидроизоляционных материалов. Устройство изоляции в таких обстоятельствах — достаточно трудоемкая задача, которая решается двумя способами:
+</p>
+<ul>
+	<li>«Подрезание» стены и заполнение образовавшихся полостей мастикой и рубероидом.</li>
+	<li>Инъектирование гидроизоляционных смесей в предварительно просверленные в кладке отверстия с помощью трубок (пакеров). Нагнетание инъекционной смолы производится под давлением, создаваемым специальным оборудованием. Данный метод применяют в основном изнутри помещения. Для гидроизоляции цоколя из кирпича используют составы типа <a href="../../catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/index.html">«Кальматрон-инжект»</a>. Необходимо соблюдать осторожность при нагнетании, чтобы не треснул слабый кирпич.</li>
+</ul>
+<p>
+	 Естественно, выполнение таких технически сложных работ более затратно, чем гидроизоляция дома на стадии строительства.
+</p>
+<a id="h2_7"></a><h2>Проникающая гидроизоляция для кирпича</h2>
+<p>
+	 Метод разработан для задач, которые не могут быть решены традиционными способами. Суть технологии состоит в использовании специальных компонентов, которые при нанесении на кирпичную кладку проникают в поры и капилляры кладочного раствора и создают защитный гидроизоляционый слой на поверхности.
+</p>
+<a id="h2_8"></a><h2>Обработка стен снаружи и изнутри</h2>
+<p>
+	 Необходимость гидроизоляции наружных и внутренних стен связана с тем, что вода в кирпич проникает не только в результате капиллярного подъема, но и из воздуха. При отсутствии правильной защиты зданию грозит сырость, нарушение микроклимата, возникновение грибков и плесени.
+</p>
+<p>
+	 Например, влажный воздух помещения адсорбируется кирпичом. Накапливаемая влага повышает его теплопроводность, в результате чего снижается температура поверхности стены, и на ней образуется конденсат. Обработка проникающими средствами внутренней поверхности кладки позволит создать барьер для проникновения воды в кирпич из воздуха и ликвидировать условия для возникновения конденсата.
+</p>
+<p style="text-align: center;">
+ <img alt="Стеновые материалы в разрезе" src="https://kalmatron.ru/upload/articles_images/18656/image017_6743420.jpg" title="Гидроизоляция стены в разрезе">
+</p>
+<p>
+	 Выбор метода гидроизоляции для наружной стены главным образом определяется тем, какая предполагается финишная отделка фасада здания. Для вентилируемого фасада обычно применяют гидроизоляционную мембрану, которая монтируется на теплоизоляцию. Если фасадом является кирпичная кладка, наилучшим вариантом защиты от влаги будет обработка его проникающими составами.
+</p>
+<a id="h2_9"></a><h2>Защита фундамента и цокольного этажа</h2>
+<p>
+	 Гидроизоляцию кирпичного цоколя или подвала можно выполнить снаружи несколькими способами:
+</p>
+<ul>
+	<li>Наплавлением изоляционных мембран.</li>
+	<li>Нанесением различных составов.</li>
+	<li>С помощью жидкой резины.</li>
+</ul>
+<p>
+	 Если с внешней стороны дома нет возможности защитить цоколь или подвал, гидроизоляцию устраивают изнутри помещения. Основные технологии:
+</p>
+<ul>
+	<li>Инъектирование — подача насосом в тело кирпича гидроизоляционных растворов, которые заполняют каверны и трещины.</li>
+	<li>Вуальная гидроизоляция — инъекция производится не внутрь кладки, а за нее с образованием защитного слоя между внешней стеной и грунтом. Метод применяется редко из-за высокой стоимости работ.</li>
+	<li>Полимерцементная изоляция — двухкомпонентный состав наносится кистью, шпателем или распылением. Он проникает в структуру кирпича и создает прочный барьер, способный выдержать давление влаги снаружи внутрь.</li>
+	<li>Проникающая гидроизоляция.</li>
+</ul>
+<p>
+	 Выполнение работ (начиная с обследования объекта и выбора технологии) следует доверить специалистам, так как гидроизоляция стен — это вопрос, напрямую связанный с долговечностью дома и качеством жизни в нем.
 </p>
 <br/>
 			</div>
@@ -914,7 +1018,6 @@
 		</div>
 	</div>	
 </div>
-
 <div class="main-articles mt-block">
     <div class="inner">
         <div class="title-block">
@@ -923,46 +1026,46 @@
             </div>
         </div>
         <div class="small-articles">
-			            <a data-id="546" href="../gidroizolyatsiya-vvodov-truboprovoda/index.html" class="small-article">
+			            <a data-id="1597" href="../remont-mostov/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">3 дек 2024</p>
+                        <p class="article__label">26 дек 2024</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="small-article__image" alt="Гидроизоляция вводов трубопровода">
+                    <img src="../../upload/iblock/79c/rndfv2hqnkodl070krqkdrcbxk3keanf/2149862562.jpg" class="small-article__image" alt="Ремонт мостов">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция вводов трубопровода                    </p>
+                        Ремонт мостов                    </p>
                 </div>
             </a>
-			            <a data-id="84" href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html" class="small-article">
+			            <a data-id="350" href="https://kalmatron.ru/articles/remont-gidroizolyacii/" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">5 окт 2024</p>
+                        <p class="article__label">15 янв 2014</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/1f3/adogf173w7utgat2uduzan3l3j1plsjl/3.jpg" class="small-article__image" alt="Гидроизоляция бетона">
+                    <img src="https://kalmatron.ru/upload/iblock/d5d/ozuc3akc4t014xdm3hsd5zuykkxue5eu/2694.jpg" class="small-article__image" alt="Ремонт гидроизоляции">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция бетона                    </p>
+                        Ремонт гидроизоляции                    </p>
                 </div>
             </a>
-			            <a data-id="512" href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html" class="small-article">
+			            <a data-id="398" href="https://kalmatron.ru/articles/gidroizolyaciya-skladov/" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">26 ноя 2024</p>
+                        <p class="article__label">28 мая 2015</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg" class="small-article__image" alt="Гидроизоляция швов с помощью гидрошпонок">
+                    <img src="https://kalmatron.ru/upload/iblock/e46/qphmgcr9hr2rj5b50jhvbnwuvn245l70/2986.jpg" class="small-article__image" alt="Гидроизоляция складов">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция швов с помощью гидрошпонок                    </p>
+                        Гидроизоляция складов                    </p>
                 </div>
             </a>
 			        </div>
@@ -971,7 +1074,7 @@
     <div class="inner">
         <div class="d-flex justify-center">
             <form class="bq-form feedback__form"
-                  id="bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40"
+                  id="bquadro-form-3c35aa0e550ad17c6ca2e034b3ea3fb880e822ba"
                   data-modal="feedback"
                   novalidate>
                 <input type="hidden" name="sessid" id="sessid" value="" />                <div class="bq-form-inner js-bq-form-inner">
@@ -989,7 +1092,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_NAME"
+                                                       id="3c35aa0e550ad17c6ca2e034b3ea3fb880e822ba_NAME"
                                                        name="NAME"
                                                        placeholder="Ваше имя *"
                                                        value=""
@@ -1003,7 +1106,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_CONTACT"
+                                                       id="3c35aa0e550ad17c6ca2e034b3ea3fb880e822ba_CONTACT"
                                                        name="CONTACT"
                                                        placeholder="Телефон или EMAIL *"
                                                        value=""
@@ -1017,7 +1120,7 @@
                                             >
                                                 <textarea class="bq-form-textarea input input_light-gray feedback__input"
                                                           rows="3"
-                                                          id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_QUESTION"
+                                                          id="3c35aa0e550ad17c6ca2e034b3ea3fb880e822ba_QUESTION"
                                                           name="QUESTION"
                                                           placeholder="Ваш вопрос *"
                                                                                                                     autocomplete="off"
@@ -1059,8 +1162,8 @@
                     <a href="../../catalog/index.html"
                class="footer__link menu-1"
             >Каталог</a>
-                    <a href="../index.html"
-               class="footer__link menu-1 selected"
+                    <a href="../../solutions/index.html"
+               class="footer__link menu-1"
             >Типовые решения</a>
                     <a href="../../objects/ges-lesogorskaya/index.html"
                class="footer__link menu-1"
@@ -1080,8 +1183,8 @@
                     <a href="../../payment-delivery/index.html"
                class="footer__link menu-1"
             >Оплата и доставка</a>
-                    <a href="../../articles/index.html"
-               class="footer__link menu-1"
+                    <a href="../index.html"
+               class="footer__link menu-1 selected"
             >Полезные статьи</a>
                     <a href="../../contacts/index.html"
                class="footer__link menu-1"
@@ -1196,7 +1299,7 @@
         }
 		
 		jsControl = new JCTitleSearch2({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/articles/pronikayushchaya-gidroizolyaciya-dlya-kirpicha/',
 			'CONTAINER_ID': 'title-search',
 			'INPUT_ID': 'title-search-input',
 			'INPUT_ID_TMP': 'title-search-input',
@@ -1214,7 +1317,7 @@
         }
 		
 		jsControl = new JCTitleSearch3({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/articles/pronikayushchaya-gidroizolyaciya-dlya-kirpicha/',
 			'CONTAINER_ID': 'title-search-mobile',
 			'INPUT_ID': 'title-search-input-mobile',
 			'INPUT_ID_TMP': 'title-search-input-mobile',
@@ -1225,9 +1328,9 @@
 </script><script class="js-bq-form-script">
                 new BquadroForm({
                     params: {'IBLOCK_ID':'feedback','IBLOCK_TYPE':'forms','TITLE':'Остались вопросы?','DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','GOAL':'ostalis-voprosy','CACHE_TYPE':'A','TYPE':'','~IBLOCK_ID':'feedback','~IBLOCK_TYPE':'forms','~TITLE':'Остались вопросы?','~DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','~SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','~GOAL':'ostalis-voprosy','~CACHE_TYPE':'A','~TYPE':''},
-                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
+                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3c35aa0e550ad17c6ca2e034b3ea3fb880e822ba','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
             </script>
 <script  src="../../bitrix/cache/js/s1/kalmatron/template_a168bd841f75c9187efdaaff729553ab/template_a168bd841f75c9187efdaaff729553ab_v1.js@1760597754510771"></script>
 
 </body>
-</html><!--cb99555e38cc5d933e8f9d554477cae7-->
+</html><!--7ec31320e54433fea9e1d66fb9cfa928-->

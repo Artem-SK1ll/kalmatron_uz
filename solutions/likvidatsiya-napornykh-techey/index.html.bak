@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Подливка оборудования — типовые решения «Кальматрон»</title>
+    <title>Ликвидация напорных течей — типовые решения «Кальматрон»</title>
         <script data-skip-moving="true">
         var arSiteOptions = {'USER_ID':'0','DOMAIN':'','SITE_TEMPLATE_PATH':'/local/templates/kalmatron','API_URL':'/api/','SITE_DIR':'/','SCROLLTOTOP_TYPE':'ROUND_COLOR','SCROLLTOTOP_POSITION':'PADDING','SCROLLTOTOP_POSITION_RIGHT':'','SCROLLTOTOP_POSITION_BOTTOM':'','USE_FORMS_GOALS':'NONE','PHONE_MASK':'+7 (999) 999-99-99','VALIDATE_PHONE_MASK':'^[+]7 [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$','VALIDATE_FILE_EXT':'png|jpg|jpeg|gif|svg|doc|docx|xls|xlsx|txt|pdf|odt|rtf'};
     </script>
     <link rel="canonical" href="index.html"/>
     <style type="text/css">.bx-composite-btn {background: url(../../bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(../../bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(../../bitrix/images/main/composite/loading.gif);}</style>
-<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a478d742b29e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"97e6c13c9d10","rIpOz9":"9623efa75886","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a9108249b9f0","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"be1d23e759aa","rIpOz9":"9623efa75886","CpmJaV":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
@@ -25,21 +25,21 @@
 
 
 <!-- dev2fun module opengraph -->
-<meta property="og:title" content="Подливка оборудования &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
-<meta property="og:description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы &laquo;Кальматрон&raquo; применяют для высокоточной цементации оборудования, по..."/>
-<meta property="og:url" content="https://kalmatron.ru/solutions/podlivka-oborudovaniya/"/>
+<meta property="og:title" content="Ликвидация напорных течей &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
+<meta property="og:description" content="Ликвидация напорных течей &mdash; важная мера, которая позволит устранить дефекты в бетонной конструкции с учетом особенностей повреждений. Устранение протечек осущес..."/>
+<meta property="og:url" content="https://kalmatron.ru/solutions/likvidatsiya-napornykh-techey/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Кальматрон"/>
-<meta property="og:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image" content="https://kalmatron.ru/upload/iblock/127/jiq3vmw81ed3owiiu887uiu9nhxqi1a0/13.jpg"/>
 <meta property="og:image:type" content="image/jpeg"/>
-<meta property="og:image:width" content="707"/>
-<meta property="og:image:height" content="398"/>
-<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image:width" content="673"/>
+<meta property="og:image:height" content="505"/>
+<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/127/jiq3vmw81ed3owiiu887uiu9nhxqi1a0/13.jpg"/>
 <!-- /dev2fun module opengraph -->
 
 
 
-<meta name="description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы «Кальматрон» применяют для высокоточной цементации оборудования, подливки под металлоконструкции. Подробнее читайте в статье на сайте Кальматрон." />
+<meta name="description" content="Ликвидация напорных течей — важная мера, которая позволит устранить дефекты в бетонной конструкции с учетом особенностей повреждений. Устранение протечек осуществляется несколькими способами. Подробнее на сайте." />
     <link rel="icon" type="image/png" href="../../favicon-96x96.png" sizes="96x96"/>
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg"/>
     <link rel="shortcut icon" href="../../favicon.ico"/>
@@ -273,8 +273,8 @@
                                                                                                             <li class="menu__inner-item">
                         <a href="../remont-betona/index.html">Ремонт бетона</a>
                     </li>
-                                                                                                            <li class="menu__inner-item">
-                        <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                                                                                                            <li class="menu__inner-item item-selected">
+                        <a href="index.html">Ликвидация напорных течей</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
                         <a href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html">Гидроизоляция деформационных швов</a>
@@ -285,8 +285,8 @@
                                                                                                             <li class="menu__inner-item">
                         <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
                     </li>
-                                                                                                            <li class="menu__inner-item item-selected">
-                        <a href="index.html">Подливка оборудования</a>
+                                                                                                            <li class="menu__inner-item">
+                        <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
                         <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
@@ -694,8 +694,8 @@
                 <a href="../remont-betona/index.html">Ремонт бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 44, TEXT: Ликвидация напорных течей, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ликвидация напорных течей, LINK: /solutions/likvidatsiya-napornykh-techey/ -->
-                                <li class="menu__inner-item">
-                <a href="../likvidatsiya-napornykh-techey/index.html">Ликвидация напорных течей</a>
+                                <li class="menu__inner-item item-selected">
+                <a href="index.html">Ликвидация напорных течей</a>
             </li>
                     <!-- DEBUG: INDEX: 45, TEXT: Гидроизоляция деформационных швов, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция деформационных швов, LINK: /solutions/gidroizolyatsiya-deformatsionnykh-shvov/ -->
                                 <li class="menu__inner-item">
@@ -710,8 +710,8 @@
                 <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
             </li>
                     <!-- DEBUG: INDEX: 48, TEXT: Подливка оборудования, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Подливка оборудования, LINK: /solutions/podlivka-oborudovaniya/ -->
-                                <li class="menu__inner-item item-selected">
-                <a href="index.html">Подливка оборудования</a>
+                                <li class="menu__inner-item">
+                <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
             </li>
                     <!-- DEBUG: INDEX: 49, TEXT: Ремонт конструкций в зимнее время, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт конструкций в зимнее время, LINK: /solutions/remont-konstruktsiy-v-zimnee-vremya/ -->
                                 <li class="menu__inner-item">
@@ -801,14 +801,14 @@
 				<meta itemprop="position" content="2" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<span class="breadcrumb__current" itemprop="name">Подливка оборудования</span>
+				<span class="breadcrumb__current" itemprop="name">Ликвидация напорных течей</span>
 				<meta itemprop="position" content="3" />
 			</span></div>			</div>
 		</div>
 	</div>
 </div>
-<div class="article-page" itemid="/solutions/podlivka-oborudovaniya/" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="mainEntityOfPage" href="../../solutions/podlivka-oborudovaniya/index.html">
+<div class="article-page" itemid="/solutions/likvidatsiya-napornykh-techey/" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="mainEntityOfPage" href="/solutions/likvidatsiya-napornykh-techey/">
 	<meta itemprop="author" content="ООО Кальматрон-СПБ">
 	<meta itemprop="datePublished" content="2024-12-03">
 	<meta itemprop="dateModified" content="2024-12-25">
@@ -818,60 +818,64 @@
                 <div class="article-page__labels article__labels">
                                         					                </div>
                 <p class="subtitle-3 article-page__title">
-                    Подливка оборудования                </p>
+                    Ликвидация напорных течей                </p>
             </div>
 
-			            <img itemprop="image" src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" class="article-page__main-block-image" alt="Подливка оборудования">
+			            <img itemprop="image" src="../../upload/iblock/127/jiq3vmw81ed3owiiu887uiu9nhxqi1a0/13.jpg" class="article-page__main-block-image" alt="Ликвидация напорных течей">
 			
             <div class="article-page__main-block-inner desktop">
                 <div class="article-page__labels article__labels">
                                         					                </div>
 
                 <h1 itemprop="headline" class="subtitle-3 article-page__title color-white">
-                    Подливка оборудования                </h1>
+                    Ликвидация напорных течей                </h1>
             </div>
         </div>
         <div class="article-page__text-block body-l">
             <div itemprop="articleBody">
 				<p>
-	 Высокоточная цементация оборудования — это строительная технология монтажа металлоконструкций и промышленного оборудования на железобетонный фундамент. Для выполнения работ применяется специализированная строительная смесь&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;и&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>. Для качественного выполнения работ эти подливочные составы обладают высокими техническими характеристиками и особыми свойствами такими как:
-</p>
-<ul>
-	<li>Высокая прочность.</li>
-	<li>Саморастекаемость.</li>
-	<li>Безусадочность.</li>
-	<li>Высокая адгезия.</li>
-</ul>
-<p>
-	 При установке промышленного оборудования на фундамент важно выставить его по уровню горизонта. Нагрузка должна равномерно распределяться на всю плоскость опоры. Технология высокоточной цементации позволяет без лишних усилий качественно и надежно закрепит оборудование на фундаменте.
+	 При строительстве и эксплуатации подземных сооружений, таких как подвальные помещения, подземные парковки, тоннели и бомбоубежища, вопрос гидроизоляции является весьма актуальным. При заглублении более 2 м наружные конструкции находятся в контакте с грунтовыми водами. При нарушении гидроизоляции происходит замачивание конструкции, в подземные помещения начинает поступать вода. Это выражается в появлении напорных течей, фильтрации влаги через бетон, сплошном намокании стен и полов.
 </p>
 <p>
-	 Оборудование устанавливается в заданное положение на временные вставки так чтобы между фундаментом и опорой был зазор 20-50 мм. Положение станины регулируется по уровню горизонта. Далее вокруг станины выставляется опалубка в нее заливается специализированный состав&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;(<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>). Благодаря своей сверхтекучести раствор легко распространяется под станиной и создает идеальную опору без щелей и зазоров.
-</p>
- <div class="article-page__paragraph article-page__paragraph_my">
-                <div class="article-page__slider with-arrows swiper">
-                    <div class="swiper-wrapper"><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" alt="Файл галлереии 583">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/f19/g9ltidtft8brgwaf4yplzl5d8l3jf95m/2.jpg" alt="Файл галлереии 584">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/a4b/n7txkep0wg2ptg05hfyp4ajw0nwbsnry/3.jpg" alt="Файл галлереии 585">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/9ff/0ekgy2nwfqnrw3j62zx0rcf726k4w8pk/4.jpg" alt="Файл галлереии 586">
-                        </div></div>
-                </div>
-
-                <div class="desktop arrow-next article-arrow-next swiper-button-next"></div>
-                <div class="desktop arrow-prev article-arrow-prev swiper-button-prev"></div>
-            </div>
-<p>
-	 Высокоточная цементация оборудования — это простая и надежная технология, на сегодняшний день она становится неотъемлемой составляющей качественных строительных работ. Фактически цементация применяется везде, где стальные конструкции устанавливаются на железобетонный фундамент. К таким случаям относятся опоры ЛЭП, стальные колонны, фундаменты обрабатывающих станков и промышленного оборудования.
+ <a href="../../images/22.04/13.jpg"></a>
 </p>
 <p style="text-align: center;">
- <a href="../../images/02.05/5.png"><img src="../../images/02.05/5.png"></a>
+ <a href="../../images/22.04/13.jpg"><img src="../../images/22.04/13.jpg" style="height: 240px;"></a><a href="../../images/22.04/14.jpg"><img src="../../images/22.04/14.jpg" style="height: 240px;"></a>
 </p>
 <p>
- <a href="../../images/02.05/6.png"><img src="../../images/02.05/6.png"></a>
+ <a href="../../images/22.04/14.jpg"></a>
+</p>
+<p>
+</p>
+<p>
+	 В сфере гидроизоляции напорными течами называют участки, где вода активно просачивается через бетон. Течи могут быть различными по напору: от едва заметной струйки до небольшого фонтана.
+</p>
+<p>
+	 Напорные течи могут возникать, когда глубина подвала ниже уровня грунтовых вод. В такой ситуации вода давит на стены и фундамент конструкции и, соответственно, при наличии сквозных повреждений бетона влага просачивается под давлением внутрь помещения. Как правило, напорные течи образуются в слабых участках конструкции, таких как швы бетонирования, трещины, каверны в бетоне, стыки фундаментных блоков.
+</p>
+<p style="text-align: center;">
+ <a href="../../images/22.04/15.png"><img src="../../images/22.04/15.png"></a>
+</p>
+<p>
+	 Напорные течи — одни из наиболее проблемных участков для выполнения гидроизоляции. В месте постоянного водопритока невозможно работать обычными ремонтными составами, обмазочной гидроизоляцией или гидроизоляционными мастиками. Постоянно прибывающая вода через протечку размывает гидроизоляционное покрытие, и оно не успевает затвердеть. Выходом из данной ситуации является применение специальной&nbsp;<a href="../../catalog/remontnye-smesi/gidroplomba-kalmastop/index.html" target="_blank">гидропломбы «Кальмастоп»</a>.
+</p>
+<p>
+	 Гидропломба «Кальмастоп» — это сверхбыстротвердеющий состав на основе композитного цемента. После смешивания с водой превращается в камень в течение 1–2 минут. Сразу после схватывания гидропломба обладает прочностью бетона и не вымывается водой. Благодаря этим свойствам ей можно пломбировать напорные течи воды в строительных конструкциях из бетона, кирпича, камня.
+</p>
+<p>
+	 Для успешной ликвидации напорной течи при помощи гидропломбы необходимо следовать технологии. В месте протечки в бетоне перфоратором выдалбливается углубление 30–50 мм. Сухая смесь «Кальмастоп» смешивается с водой до получения густой массы с консистенцией «сырой земли». Перемешивание производится руками в резиновых перчатках не более 1 минуты, так как раствор быстро схватывается. Сразу после перемешивания он формируется в плотный комок, с силой вдавливается в лунку и удерживается рукой до остановки течи. Если за один прием протечку не удалось устранить, пломбировку можно повторить.
+</p>
+<p>
+	 После остановки протечки гидропломбой «Кальмастоп» для постоянной гидроизоляции остаток лунки обязательно заделывается гидроизоляцией <a href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html">«Кальматрон-Шовный»</a>. Затем заплатку обрабатывают проникающей гидроизоляцией <a href="../../catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron/index.html">«Кальматрон»</a>.
+</p>
+<p>
+	 Необходимость устранения напорных течей возникает регулярно во многих отраслях строительства. При возведении новых зданий нарушения в виде протечек в гидроизоляции подземной части проявляются достаточно быстро, еще на начальном этапе. Для продолжения строительных работ и сдачи здания в эксплуатацию необходимо ликвидировать протечки.
+</p>
+<p>
+	 Старые бомбоубежища к моменту капитального ремонта часто находятся в состоянии подтопления из-за плохого состояния гидроизоляции наружного контура. При выполнении ремонтных работ в первую очередь необходимо устранить активные протечки воды и остановить подтопление помещения.
+</p>
+<p>
+	 При плановом ремонте секционных железобетонных резервуаров возникает ситуация, когда в одной секции происходят ремонтные работы, а другая заполнена водой. В перегородках между секциями могут возникать напорные течи. В ситуации, когда нет возможности осушить емкость, для устранения проблемы также применятся гидропломба «Кальмастоп». Это достаточно простой и эффективный способ решить проблему, не прерывая ремонтные работы на длительное время.
 </p>
 <br/>
 			</div>
@@ -914,7 +918,65 @@
 		</div>
 	</div>	
 </div>
+	<div class="typical-technologies mt-block">
+    <div class="inner">
+                    <div class="title-block">
+                <div class="title-block__inner">
+                    <div class="subtitle-2">Рекомендуемая продукция</div>
+                </div>
+            </div>
+                <div class="technologies-slider">
+            <div class="technologies__slider swiper">
+                <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон" href="../../catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra extra_green">Проникающая гидроизоляция</p>
+                                    <img src="../../upload/iblock/cca/km26n3p71t7ak04ri0ymvt4rg2vyx68g/KM_450x450_KALMATRON_25.jpg" alt="Кальматрон" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон</p>
+                                <div class="bags-list__item-text-block">
 
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Проникающая гидроизоляция<br>Упаковка: бумажные мешки по 25 кг<br>Расход: 1,6 кг/м² при толщине нанесения 1мм                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Гидропломба Кальмастоп" href="../../catalog/remontnye-smesi/gidroplomba-kalmastop/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Ремонтные смеси</p>
+                                    <img src="../../upload/dev2fun_opengraph/e19/3jne9zggb1vzw83j2t9x98cm3v68zro5.jpg" alt="Гидропломба Кальмастоп" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Гидропломба Кальмастоп</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Ремонтные смеси<br>Упаковка: ведра пластиковые по 3 кг<br>Расход: 1,5                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон-Шовный" href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Ремонтные смеси</p>
+                                    <img src="../../upload/iblock/943/7d8f5vvsfinlld17gpc1yo92ecfbibnv/KM_450x450_KALMATRON_SHOVNYY.jpg" alt="Кальматрон-Шовный" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон-Шовный</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Ремонтные смеси<br>Упаковка: бумажные мешки по 25 кг<br>Расход: 0,7                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="desktop arrow-next technologies-arrow-next swiper-button-next"></div>
+            <div class="desktop arrow-prev technologies-arrow-prev swiper-button-prev"></div>
+        </div>
+    </div>
+</div>	
 <div class="main-articles mt-block">
     <div class="inner">
         <div class="title-block">
@@ -923,18 +985,18 @@
             </div>
         </div>
         <div class="small-articles">
-			            <a data-id="546" href="../gidroizolyatsiya-vvodov-truboprovoda/index.html" class="small-article">
+			            <a data-id="544" href="../gidroizolyatsiya-kirpicha/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
                         <p class="article__label">3 дек 2024</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="small-article__image" alt="Гидроизоляция вводов трубопровода">
+                    <img src="../../upload/iblock/2a0/9c179q3195al2qre7p6qe8xty6t97yk9/16.jpg" class="small-article__image" alt="Гидроизоляция кирпича">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция вводов трубопровода                    </p>
+                        Гидроизоляция кирпича                    </p>
                 </div>
             </a>
 			            <a data-id="84" href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html" class="small-article">
@@ -971,7 +1033,7 @@
     <div class="inner">
         <div class="d-flex justify-center">
             <form class="bq-form feedback__form"
-                  id="bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40"
+                  id="bquadro-form-7f172e17279e6ede40e2df8c5fadbe85c91a3e73"
                   data-modal="feedback"
                   novalidate>
                 <input type="hidden" name="sessid" id="sessid" value="" />                <div class="bq-form-inner js-bq-form-inner">
@@ -989,7 +1051,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_NAME"
+                                                       id="7f172e17279e6ede40e2df8c5fadbe85c91a3e73_NAME"
                                                        name="NAME"
                                                        placeholder="Ваше имя *"
                                                        value=""
@@ -1003,7 +1065,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_CONTACT"
+                                                       id="7f172e17279e6ede40e2df8c5fadbe85c91a3e73_CONTACT"
                                                        name="CONTACT"
                                                        placeholder="Телефон или EMAIL *"
                                                        value=""
@@ -1017,7 +1079,7 @@
                                             >
                                                 <textarea class="bq-form-textarea input input_light-gray feedback__input"
                                                           rows="3"
-                                                          id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_QUESTION"
+                                                          id="7f172e17279e6ede40e2df8c5fadbe85c91a3e73_QUESTION"
                                                           name="QUESTION"
                                                           placeholder="Ваш вопрос *"
                                                                                                                     autocomplete="off"
@@ -1103,13 +1165,13 @@
                 </div>
                 <div class="footer__contacts-social">
                     <div class="footer__contacts-social-top">
-                        <div id="bxdynamic_d42sdq_start" style="display:none"></div><!--noindex-->
+                        <div id="bxdynamic_CpmJaV_start" style="display:none"></div><!--noindex-->
 <div class="footer__social-links">
 		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="footer__social-link social-link white ">
 		<img src="../../upload/iblock/64b/svof70p3h26541f2dcwsemg85ej7fa4y/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
-<!--/noindex--><div id="bxdynamic_d42sdq_end" style="display:none"></div>                        <div class="desktop">
+<!--/noindex--><div id="bxdynamic_CpmJaV_end" style="display:none"></div>                        <div class="desktop">
                             <div class="btn primary-btn minify js-bq-form-popup-open"
                                 data-iblock="callback"
                                 data-template="popup"
@@ -1196,7 +1258,7 @@
         }
 		
 		jsControl = new JCTitleSearch2({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/likvidatsiya-napornykh-techey/',
 			'CONTAINER_ID': 'title-search',
 			'INPUT_ID': 'title-search-input',
 			'INPUT_ID_TMP': 'title-search-input',
@@ -1214,7 +1276,7 @@
         }
 		
 		jsControl = new JCTitleSearch3({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/likvidatsiya-napornykh-techey/',
 			'CONTAINER_ID': 'title-search-mobile',
 			'INPUT_ID': 'title-search-input-mobile',
 			'INPUT_ID_TMP': 'title-search-input-mobile',
@@ -1225,9 +1287,9 @@
 </script><script class="js-bq-form-script">
                 new BquadroForm({
                     params: {'IBLOCK_ID':'feedback','IBLOCK_TYPE':'forms','TITLE':'Остались вопросы?','DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','GOAL':'ostalis-voprosy','CACHE_TYPE':'A','TYPE':'','~IBLOCK_ID':'feedback','~IBLOCK_TYPE':'forms','~TITLE':'Остались вопросы?','~DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','~SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','~GOAL':'ostalis-voprosy','~CACHE_TYPE':'A','~TYPE':''},
-                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
+                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-7f172e17279e6ede40e2df8c5fadbe85c91a3e73','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
             </script>
 <script  src="../../bitrix/cache/js/s1/kalmatron/template_a168bd841f75c9187efdaaff729553ab/template_a168bd841f75c9187efdaaff729553ab_v1.js@1760597754510771"></script>
 
 </body>
-</html><!--cb99555e38cc5d933e8f9d554477cae7-->
+</html><!--cb56e0c55f1e2da9d7a8b4a50fc1fb31-->

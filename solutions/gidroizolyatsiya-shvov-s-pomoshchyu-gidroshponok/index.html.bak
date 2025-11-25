@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Подливка оборудования — типовые решения «Кальматрон»</title>
+    <title>Шовная гидроизоляция: технология, устройство и типы</title>
         <script data-skip-moving="true">
         var arSiteOptions = {'USER_ID':'0','DOMAIN':'','SITE_TEMPLATE_PATH':'/local/templates/kalmatron','API_URL':'/api/','SITE_DIR':'/','SCROLLTOTOP_TYPE':'ROUND_COLOR','SCROLLTOTOP_POSITION':'PADDING','SCROLLTOTOP_POSITION_RIGHT':'','SCROLLTOTOP_POSITION_BOTTOM':'','USE_FORMS_GOALS':'NONE','PHONE_MASK':'+7 (999) 999-99-99','VALIDATE_PHONE_MASK':'^[+]7 [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$','VALIDATE_FILE_EXT':'png|jpg|jpeg|gif|svg|doc|docx|xls|xlsx|txt|pdf|odt|rtf'};
     </script>
     <link rel="canonical" href="index.html"/>
     <style type="text/css">.bx-composite-btn {background: url(../../bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(../../bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(../../bitrix/images/main/composite/loading.gif);}</style>
-<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"a478d742b29e","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"97e6c13c9d10","rIpOz9":"9623efa75886","d42sdq":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {"CACHE_MODE":"HTMLCACHE","banner":{"url":"https:\/\/www.1c-bitrix.ru\/composite\/","text":"Быстро с 1С-Битрикс","bgcolor":"#E94524","style":"white"},"storageBlocks":[],"dynamicBlocks":{"G37Ntp":"d41d8cd98f00","LkGdQn":"828a6598a6bf","7DqYyc":"257a2af22d30","XEVOpk":"d91b0092e722","jmonnO":"584240393a1b","g8taYv":"3b3ada36a391","rIpOz9":"9623efa75886","CpmJaV":"33b835835faf","NMQc3w":"497302cdbfad"},"AUTO_UPDATE":true,"AUTO_UPDATE_TTL":120,"version":2};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
@@ -25,21 +25,21 @@
 
 
 <!-- dev2fun module opengraph -->
-<meta property="og:title" content="Подливка оборудования &mdash; типовые решения &laquo;Кальматрон&raquo;"/>
-<meta property="og:description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы &laquo;Кальматрон&raquo; применяют для высокоточной цементации оборудования, по..."/>
-<meta property="og:url" content="https://kalmatron.ru/solutions/podlivka-oborudovaniya/"/>
+<meta property="og:title" content="Шовная гидроизоляция: технология, устройство и типы"/>
+<meta property="og:description" content="Гидроизоляция швов в бетоне - какие эффективные методы защиты применяют? А также подробнее про устройство и типы швов читайте в статье от производителя Кальматр..."/>
+<meta property="og:url" content="https://kalmatron.ru/solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/"/>
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Кальматрон"/>
-<meta property="og:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image" content="https://kalmatron.ru/upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg"/>
 <meta property="og:image:type" content="image/jpeg"/>
-<meta property="og:image:width" content="707"/>
-<meta property="og:image:height" content="398"/>
-<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg"/>
+<meta property="og:image:width" content="2048"/>
+<meta property="og:image:height" content="1536"/>
+<meta property="twitter:image" content="https://kalmatron.ru/upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg"/>
 <!-- /dev2fun module opengraph -->
 
 
 
-<meta name="description" content="Прочность и долговечность сооружений зависит от качества выполнения гидроизоляции. Материалы «Кальматрон» применяют для высокоточной цементации оборудования, подливки под металлоконструкции. Подробнее читайте в статье на сайте Кальматрон." />
+<meta name="description" content="Гидроизоляция швов в бетоне - какие эффективные методы защиты применяют? А также подробнее про устройство и типы швов читайте в статье от производителя Кальматрон." />
     <link rel="icon" type="image/png" href="../../favicon-96x96.png" sizes="96x96"/>
     <link rel="icon" type="image/svg+xml" href="../../favicon.svg"/>
     <link rel="shortcut icon" href="../../favicon.ico"/>
@@ -267,8 +267,8 @@
                                                                                                             <li class="menu__inner-item">
                         <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
                     </li>
-                                                                                                            <li class="menu__inner-item">
-                        <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                                                                                                            <li class="menu__inner-item item-selected">
+                        <a href="index.html">Гидроизоляция швов с помощью гидрошпонок</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
                         <a href="../remont-betona/index.html">Ремонт бетона</a>
@@ -285,8 +285,8 @@
                                                                                                             <li class="menu__inner-item">
                         <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
                     </li>
-                                                                                                            <li class="menu__inner-item item-selected">
-                        <a href="index.html">Подливка оборудования</a>
+                                                                                                            <li class="menu__inner-item">
+                        <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
                     </li>
                                                                                                             <li class="menu__inner-item">
                         <a href="../remont-konstruktsiy-v-zimnee-vremya/index.html">Ремонт конструкций в зимнее время</a>
@@ -686,8 +686,8 @@
                 <a href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html">Гидроизоляция бетона</a>
             </li>
                     <!-- DEBUG: INDEX: 42, TEXT: Гидроизоляция швов с помощью гидрошпонок, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Гидроизоляция швов с помощью гидрошпонок, LINK: /solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/ -->
-                                <li class="menu__inner-item">
-                <a href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html">Гидроизоляция швов с помощью гидрошпонок</a>
+                                <li class="menu__inner-item item-selected">
+                <a href="index.html">Гидроизоляция швов с помощью гидрошпонок</a>
             </li>
                     <!-- DEBUG: INDEX: 43, TEXT: Ремонт бетона, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт бетона, LINK: /solutions/remont-betona/ -->
                                 <li class="menu__inner-item">
@@ -710,8 +710,8 @@
                 <a href="../gidroizolyatsiya-vvodov-truboprovoda/index.html">Гидроизоляция вводов трубопровода</a>
             </li>
                     <!-- DEBUG: INDEX: 48, TEXT: Подливка оборудования, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Подливка оборудования, LINK: /solutions/podlivka-oborudovaniya/ -->
-                                <li class="menu__inner-item item-selected">
-                <a href="index.html">Подливка оборудования</a>
+                                <li class="menu__inner-item">
+                <a href="../podlivka-oborudovaniya/index.html">Подливка оборудования</a>
             </li>
                     <!-- DEBUG: INDEX: 49, TEXT: Ремонт конструкций в зимнее время, DEPTH_LEVEL: 2, IS_PARENT: , CHAIN: Типовые решения -> Ремонт конструкций в зимнее время, LINK: /solutions/remont-konstruktsiy-v-zimnee-vremya/ -->
                                 <li class="menu__inner-item">
@@ -801,77 +801,125 @@
 				<meta itemprop="position" content="2" />
 			</span> - 
 			<span class="bx-breadcrumb-item" id="bx_breadcrumb_2" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<span class="breadcrumb__current" itemprop="name">Подливка оборудования</span>
+				<span class="breadcrumb__current" itemprop="name">Гидроизоляция швов с помощью гидрошпонок</span>
 				<meta itemprop="position" content="3" />
 			</span></div>			</div>
 		</div>
 	</div>
 </div>
-<div class="article-page" itemid="/solutions/podlivka-oborudovaniya/" itemscope itemtype="http://schema.org/Article">
-	<meta itemprop="mainEntityOfPage" href="../../solutions/podlivka-oborudovaniya/index.html">
+<div class="article-page" itemid="/solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="mainEntityOfPage" href="/solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/">
 	<meta itemprop="author" content="ООО Кальматрон-СПБ">
-	<meta itemprop="datePublished" content="2024-12-03">
-	<meta itemprop="dateModified" content="2024-12-25">
+	<meta itemprop="datePublished" content="2024-11-26">
+	<meta itemprop="dateModified" content="2025-08-29">
     <div class="inner">
         <div class="article-page__main-block">
             <div class="article-page__main-block-inner mobile">
                 <div class="article-page__labels article__labels">
                                         					                </div>
                 <p class="subtitle-3 article-page__title">
-                    Подливка оборудования                </p>
+                    Гидроизоляция швов с помощью гидрошпонок                </p>
             </div>
 
-			            <img itemprop="image" src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" class="article-page__main-block-image" alt="Подливка оборудования">
+			            <img itemprop="image" src="../../upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg" class="article-page__main-block-image" alt="Гидроизоляция швов с помощью гидрошпонок">
 			
             <div class="article-page__main-block-inner desktop">
                 <div class="article-page__labels article__labels">
                                         					                </div>
 
                 <h1 itemprop="headline" class="subtitle-3 article-page__title color-white">
-                    Подливка оборудования                </h1>
+                    Гидроизоляция швов с помощью гидрошпонок                </h1>
             </div>
         </div>
         <div class="article-page__text-block body-l">
             <div itemprop="articleBody">
-				<p>
-	 Высокоточная цементация оборудования — это строительная технология монтажа металлоконструкций и промышленного оборудования на железобетонный фундамент. Для выполнения работ применяется специализированная строительная смесь&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;и&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>. Для качественного выполнения работ эти подливочные составы обладают высокими техническими характеристиками и особыми свойствами такими как:
+									<ul>
+					<li><a href="index.html#1" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_1').offset().top - 100}, 500);">Что такое швы в конструкции и какими они бывают</a></li><li><a href="index.html#2" onClick=" $([document.documentElement, document.body]).animate({scrollTop: $('#h2_2').offset().top - 100}, 500);">Гидроизоляция швов гидрошпонками</a></li>					</ul>
+					<a id="h2_1"></a><h2>Что такое швы в конструкции и какими они бывают</h2>
+<p>
+	 Шов — это вертикальное или горизонтальное монтажное соединение конструктивных элементов, длина которого существенно выше его поперечного сечения, например, шов между плитами перекрытий. Он также является разновидностью стыка, представляющего собой соединение однородных частей конструкции, например, стены или колонны многоэтажной постройки.
+</p>
+<p>
+	 Гидроизоляция швов и примыканий бетона — это их заделка специальными материалами, чтобы создать водопроницаемую поверхность. Нужна для защиты сооружения от протечек и других разрушительных последствий.
+</p>
+<p>
+	 Строительные швы разделяют на две категории:
 </p>
 <ul>
-	<li>Высокая прочность.</li>
-	<li>Саморастекаемость.</li>
-	<li>Безусадочность.</li>
-	<li>Высокая адгезия.</li>
+	<li>Технологические&nbsp;(или рабочие, холодные). Эти швы связаны с перерывами в бетонировании, как правило, с этапностью работ. При любом перерыве бетонирования более 2 часов образуется технологический шов.</li>
+	<li>Деформационные. Представляют собой технологические зазоры в бетонных конструкциях, предусмотренные проектом строительства. Они помогают предотвратить образование трещин и снизить нагрузки на строительные элементы сооружения. Подразделяются на виды: сейсмические, температурные (компенсаторные), усадочные, осадочные, изоляционные.</li>
 </ul>
 <p>
-	 При установке промышленного оборудования на фундамент важно выставить его по уровню горизонта. Нагрузка должна равномерно распределяться на всю плоскость опоры. Технология высокоточной цементации позволяет без лишних усилий качественно и надежно закрепит оборудование на фундаменте.
+	 Остановимся на каждом подробнее.
+</p>
+<ul>
+	<li>Технологические. Образуются в результате стандартных этапов бетонирования, в процессе которых укладка свежего бетона происходит только после затвердевания предыдущего слоя.</li>
+	<li>Деформационные. Бывают продольными и поперечными, горизонтальными и вертикальными. Проектируются при разработке плана объекта на участках, где предполагается деформация конструкции в связи с температурными перепадами и другими факторами.</li>
+</ul>
+<p>
+	 Виды деформационных швов:
+</p>
+<ul>
+	<li>Усадочные. Необходимы из-за неравномерного высыхания бетона, которое приводит к деформации. При бетонировании толстого слоя большой площади вначале усаживается его верхняя часть, затем — нижняя. В результате возникают внутреннее напряжение и искажение стяжки. Предотвратить расслоение помогают зазоры, они разделяют площадь заливки на равные части.</li>
+	<li>Температурные. Предназначены для защиты слоя от растрескивания и образования трещин, возникающих из-за температурных колебаний и других внешних факторов.</li>
+	<li>Сейсмические. Проектируются при строительстве конструкций в сейсмически активных районах.</li>
+	<li>Осадочные. В процессе осадки здания на основание действуют разнонаправленные усилия, из-за которых могут смещаться плиты между этажами и деформироваться напольное покрытие. Избежать такого результата помогают осадочные разрезы. Подобные швы также нужны при примыкании к главному сооружению пристроек.</li>
+</ul>
+<p>
+	 Решение о наличии деформационных швов в проекте зависит от геологических условий застраиваемой территории, природной и климатической ситуации в регионе, специфики назначения сооружения.
 </p>
 <p>
-	 Оборудование устанавливается в заданное положение на временные вставки так чтобы между фундаментом и опорой был зазор 20-50 мм. Положение станины регулируется по уровню горизонта. Далее вокруг станины выставляется опалубка в нее заливается специализированный состав&nbsp;<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-1/index.html" target="_blank">«Гидробетон Наливной-1»</a>&nbsp;(<a href="../../catalog/remontnye-smesi/gidrobeton-nalivnoy-2/index.html" target="_blank">«Гидробетон Наливной-2»</a>). Благодаря своей сверхтекучести раствор легко распространяется под станиной и создает идеальную опору без щелей и зазоров.
+	 Уплотнение и гидроизоляция швов помогает герметизировать и защитить их от проникновения влаги, грязи и компенсировать напряжение.
 </p>
- <div class="article-page__paragraph article-page__paragraph_my">
-                <div class="article-page__slider with-arrows swiper">
-                    <div class="swiper-wrapper"><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/952/2ulnnws4lf2fdx4bgn1yw5fueukvgdwk/1-_1_.jpg" alt="Файл галлереии 583">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/f19/g9ltidtft8brgwaf4yplzl5d8l3jf95m/2.jpg" alt="Файл галлереии 584">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/a4b/n7txkep0wg2ptg05hfyp4ajw0nwbsnry/3.jpg" alt="Файл галлереии 585">
-                        </div><div class="swiper-slide article-page__slider-slide">
-                            <img src="../../upload/iblock/9ff/0ekgy2nwfqnrw3j62zx0rcf726k4w8pk/4.jpg" alt="Файл галлереии 586">
-                        </div></div>
-                </div>
-
-                <div class="desktop arrow-next article-arrow-next swiper-button-next"></div>
-                <div class="desktop arrow-prev article-arrow-prev swiper-button-prev"></div>
-            </div>
+<a id="h2_2"></a><h2>Гидроизоляция швов гидрошпонками</h2>
 <p>
-	 Высокоточная цементация оборудования — это простая и надежная технология, на сегодняшний день она становится неотъемлемой составляющей качественных строительных работ. Фактически цементация применяется везде, где стальные конструкции устанавливаются на железобетонный фундамент. К таким случаям относятся опоры ЛЭП, стальные колонны, фундаменты обрабатывающих станков и промышленного оборудования.
-</p>
-<p style="text-align: center;">
- <a href="../../images/02.05/5.png"><img src="../../images/02.05/5.png"></a>
+ <a href="../../catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/index.html" target="_blank">Гидрошпонка «Ультрабанд»</a>&nbsp;— эластичное изделие из эластомера на основе пластифицированного ПВХ и специальных добавок, полученного с помощью экструзии.
 </p>
 <p>
- <a href="../../images/02.05/6.png"><img src="../../images/02.05/6.png"></a>
+	 Компания «Кальматрон» выпускает гидроизоляционные шпонки «Ультрабанд» разных типов. Применяются для создания гидроизоляционного шва на определенном участке конструкции согласно их характеристикам.
+</p>
+<ul>
+	<li>Тип ДВ — деформационная внутренняя шпонка. Используется для гидроизоляции деформационных швов. Монтируются внутри конструкции. Для её установки может потребоваться изменения армирования конструкции.</li>
+</ul>
+<ul>
+	<li>Тип ДО — деформационная опалубочная. Используется для наружного монтажа непосредственно на деформационный шов. Отличается простотой установки, универсальностью, высоким уровнем сопротивления одностороннему потоку воды. Крепится к опалубке стен или раскатывается непосредственно по подбетонке перед заливкой плиты.</li>
+</ul>
+<ul>
+	<li>Тип ДЗ — защитная. Имеет П-образную форму. Предназначена для деформационного шва. Характеризуется лёгкостью монтажа. &nbsp;Монтируется путем закрепления на заполнителе деформационного шва.</li>
+</ul>
+<ul>
+	<li>Тип ХВ&nbsp;— внутренняя для холодных зазоров. Используется для гидроизоляции технологических швов. По аналогии со шпонкой ДВ монтируется внутри конструкции.</li>
+</ul>
+<ul>
+	<li>Тип ХО&nbsp;— опалубочная (внешняя) для холодных швов. Используется для гидроизоляции технологических швов. Монтаж аналогичен шпонке ДО.</li>
+</ul>
+<ul>
+	<li>Тип ХВС&nbsp;— внутренняя для гидроизоляции швов примыкания плита стена. Используется для гидроизоляции швов примыкания плиты стена. Более жесткая нежели шпонка ХВ, для того чтобы она не сгибалась под слоем бетона, когда его будут подавать с высоты в опалубку при возведении стен. В комплекте идет крепеж.</li>
+</ul>
+<p>
+	 Гидрошпонка&nbsp;применяется, чтобы сделать шов водонепроницаемым, создать герметичную уплотненную систему в конструкции. При выборе варианта шпонки опираются на стандарт DIN V 18541. Подбор производят с учетом следующих факторов:
+</p>
+<ul>
+	<li>перемещения конструкции – продольные и поперечные;</li>
+	<li>давление воды;</li>
+	<li>совместимость материала изоляции с окружающими средами;</li>
+	<li>наличие дополнительных гидроизоляционных элементов.</li>
+</ul>
+<p>
+	 Проведение работ по установке шпонки имеет последовательность:
+</p>
+<ul>
+	<li>подготовительные процедуры для монтируемого отрезка гидрошпонки;</li>
+	<li>очищение материала от грязи и пыли;</li>
+	<li>установка и фиксация гидроизоляционной шпонки в необходимых согласно проектной документации;</li>
+	<li>заливка бетона;</li>
+	<li>снятие опалубки;</li>
+	<li>контроль качества монтажа и очищение гидрошпонки перед бетонированием соседнего участка;</li>
+	<li>при необходимости сварка шпонки между собой, а также сварка в местах перехода с плиты на стену;</li>
+	<li>заливка бетоном последующего участка и т.д.</li>
+</ul>
+<p>
+	 Гидроизоляцию швов <a href="../../catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/index.html">гидрошпонкой</a> производят в точности с проектно-конструкторской документацией.
 </p>
 <br/>
 			</div>
@@ -914,7 +962,65 @@
 		</div>
 	</div>	
 </div>
+	<div class="typical-technologies mt-block">
+    <div class="inner">
+                    <div class="title-block">
+                <div class="title-block__inner">
+                    <div class="subtitle-2">Рекомендуемая продукция</div>
+                </div>
+            </div>
+                <div class="technologies-slider">
+            <div class="technologies__slider swiper">
+                <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                            <a title="Бентонитовый шнур «УЛЬТРАПЛАТ»" href="../../catalog/bentonitovyy-shnur/bentonitovyy-shnur-ultraplat/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Системы гидроизоляции швов</p>
+                                    <img src="../../upload/iblock/11c/mzj41it980oa83bb6ycgz1cl87pxqfwo/KM_800x800_Ultraplat.jpg" alt="Бентонитовый шнур «УЛЬТРАПЛАТ»" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Бентонитовый шнур «УЛЬТРАПЛАТ»</p>
+                                <div class="bags-list__item-text-block">
 
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Бентонитовый шнур<br>Упаковка: картонные коробки (40 пог.м.)                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Гидрошпонки «Ультрабанд»" href="../../catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Системы гидроизоляции швов</p>
+                                    <img src="../../upload/iblock/ead/ghg6o0rky1dkzy9ikklr3nttjjrbb35n/KM_800x800_Ultraband.jpg" alt="Гидрошпонки «Ультрабанд»" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Гидрошпонки «Ультрабанд»</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Гидрошпонки                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            <div class="swiper-slide">
+                            <a title="Кальматрон-Шовный" href="../../catalog/remontnye-smesi/kalmatron-shovnyy/index.html" class="bags-list__item">
+                                <div class="bags-list__item-image-block">
+                                    <p class="bags-list__item-extra extra ">Ремонтные смеси</p>
+                                    <img src="../../upload/iblock/943/7d8f5vvsfinlld17gpc1yo92ecfbibnv/KM_450x450_KALMATRON_SHOVNYY.jpg" alt="Кальматрон-Шовный" class="bags-list__item-image">
+                                </div>
+                                <p class="bags-list__item-title">Кальматрон-Шовный</p>
+                                <div class="bags-list__item-text-block">
+
+                                                                            <p class="bags-list__item-text body-l color-text-gray">
+                                            Вид: Ремонтные смеси<br>Упаковка: бумажные мешки по 25 кг<br>Расход: 0,7                                        </p>
+                                                                    </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="desktop arrow-next technologies-arrow-next swiper-button-next"></div>
+            <div class="desktop arrow-prev technologies-arrow-prev swiper-button-prev"></div>
+        </div>
+    </div>
+</div>	
 <div class="main-articles mt-block">
     <div class="inner">
         <div class="title-block">
@@ -923,20 +1029,6 @@
             </div>
         </div>
         <div class="small-articles">
-			            <a data-id="546" href="../gidroizolyatsiya-vvodov-truboprovoda/index.html" class="small-article">
-                <div class="small-article__image-block">
-                    <div class="article__labels">
-                        <p class="article__label">3 дек 2024</p>
-                                                                    </div>
-
-                    <img src="../../upload/iblock/629/2sgpatnjaj9pxlvylxnoklu09hj1gm2u/1.jpg" class="small-article__image" alt="Гидроизоляция вводов трубопровода">
-                </div>
-
-                <div class="small-article__text-block">
-                    <p class="subtitle-3">
-                        Гидроизоляция вводов трубопровода                    </p>
-                </div>
-            </a>
 			            <a data-id="84" href="../innovatsionnye-tekhnologii-v-gidroizolyatsii-rukovodstvo-ot-ekspertov/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
@@ -951,18 +1043,32 @@
                         Гидроизоляция бетона                    </p>
                 </div>
             </a>
-			            <a data-id="512" href="../gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/index.html" class="small-article">
+			            <a data-id="540" href="../gidroizolyatsiya-deformatsionnykh-shvov/index.html" class="small-article">
                 <div class="small-article__image-block">
                     <div class="article__labels">
-                        <p class="article__label">26 ноя 2024</p>
+                        <p class="article__label">3 дек 2024</p>
                                                                     </div>
 
-                    <img src="../../upload/iblock/b4e/oz663ytaa0yu9b27fd85js39jcn4ay98/rus_9.jpg" class="small-article__image" alt="Гидроизоляция швов с помощью гидрошпонок">
+                    <img src="../../upload/iblock/2a0/9c179q3195al2qre7p6qe8xty6t97yk9/16.jpg" class="small-article__image" alt="Гидроизоляция деформационных швов">
                 </div>
 
                 <div class="small-article__text-block">
                     <p class="subtitle-3">
-                        Гидроизоляция швов с помощью гидрошпонок                    </p>
+                        Гидроизоляция деформационных швов                    </p>
+                </div>
+            </a>
+			            <a data-id="548" href="../remont-konstruktsiy-v-zimnee-vremya/index.html" class="small-article">
+                <div class="small-article__image-block">
+                    <div class="article__labels">
+                        <p class="article__label">3 дек 2024</p>
+                                                                    </div>
+
+                    <img src="../../upload/iblock/e54/gfcz598thiupx2osjh72e9lbtqpjn5co/7.jpg" class="small-article__image" alt="Ремонт конструкций в зимнее время">
+                </div>
+
+                <div class="small-article__text-block">
+                    <p class="subtitle-3">
+                        Ремонт конструкций в зимнее время                    </p>
                 </div>
             </a>
 			        </div>
@@ -971,7 +1077,7 @@
     <div class="inner">
         <div class="d-flex justify-center">
             <form class="bq-form feedback__form"
-                  id="bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40"
+                  id="bquadro-form-53ec61b97311a98aa6a63ffa7a548402822f6df5"
                   data-modal="feedback"
                   novalidate>
                 <input type="hidden" name="sessid" id="sessid" value="" />                <div class="bq-form-inner js-bq-form-inner">
@@ -989,7 +1095,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_NAME"
+                                                       id="53ec61b97311a98aa6a63ffa7a548402822f6df5_NAME"
                                                        name="NAME"
                                                        placeholder="Ваше имя *"
                                                        value=""
@@ -1003,7 +1109,7 @@
                                             >
                                                 <input type="text"
                                                        class="modal__input input input_light-gray "
-                                                       id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_CONTACT"
+                                                       id="53ec61b97311a98aa6a63ffa7a548402822f6df5_CONTACT"
                                                        name="CONTACT"
                                                        placeholder="Телефон или EMAIL *"
                                                        value=""
@@ -1017,7 +1123,7 @@
                                             >
                                                 <textarea class="bq-form-textarea input input_light-gray feedback__input"
                                                           rows="3"
-                                                          id="3339b1fb6ed57634a18b2cb506f3ceb824b19e40_QUESTION"
+                                                          id="53ec61b97311a98aa6a63ffa7a548402822f6df5_QUESTION"
                                                           name="QUESTION"
                                                           placeholder="Ваш вопрос *"
                                                                                                                     autocomplete="off"
@@ -1103,13 +1209,13 @@
                 </div>
                 <div class="footer__contacts-social">
                     <div class="footer__contacts-social-top">
-                        <div id="bxdynamic_d42sdq_start" style="display:none"></div><!--noindex-->
+                        <div id="bxdynamic_CpmJaV_start" style="display:none"></div><!--noindex-->
 <div class="footer__social-links">
 		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="footer__social-link social-link white ">
 		<img src="../../upload/iblock/64b/svof70p3h26541f2dcwsemg85ej7fa4y/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
-<!--/noindex--><div id="bxdynamic_d42sdq_end" style="display:none"></div>                        <div class="desktop">
+<!--/noindex--><div id="bxdynamic_CpmJaV_end" style="display:none"></div>                        <div class="desktop">
                             <div class="btn primary-btn minify js-bq-form-popup-open"
                                 data-iblock="callback"
                                 data-template="popup"
@@ -1196,7 +1302,7 @@
         }
 		
 		jsControl = new JCTitleSearch2({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/',
 			'CONTAINER_ID': 'title-search',
 			'INPUT_ID': 'title-search-input',
 			'INPUT_ID_TMP': 'title-search-input',
@@ -1214,7 +1320,7 @@
         }
 		
 		jsControl = new JCTitleSearch3({
-			'AJAX_PAGE' : '/solutions/podlivka-oborudovaniya/',
+			'AJAX_PAGE' : '/solutions/gidroizolyatsiya-shvov-s-pomoshchyu-gidroshponok/',
 			'CONTAINER_ID': 'title-search-mobile',
 			'INPUT_ID': 'title-search-input-mobile',
 			'INPUT_ID_TMP': 'title-search-input-mobile',
@@ -1225,9 +1331,9 @@
 </script><script class="js-bq-form-script">
                 new BquadroForm({
                     params: {'IBLOCK_ID':'feedback','IBLOCK_TYPE':'forms','TITLE':'Остались вопросы?','DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','GOAL':'ostalis-voprosy','CACHE_TYPE':'A','TYPE':'','~IBLOCK_ID':'feedback','~IBLOCK_TYPE':'forms','~TITLE':'Остались вопросы?','~DESCRIPTION':'Напишите нам – стараемся отвечать в течение 24 часов','~SUCCESS_MESSAGE':'Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время.','~GOAL':'ostalis-voprosy','~CACHE_TYPE':'A','~TYPE':''},
-                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-3339b1fb6ed57634a18b2cb506f3ceb824b19e40','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
+                    result: {'IBLOCK_ID':'11','FORM_ID':'bquadro-form-53ec61b97311a98aa6a63ffa7a548402822f6df5','GOOGLE_RECAPTCHA_V3_ENABLED':'Y','GOOGLE_RECAPTCHA_ACTION':'bquadro_form_11','GOOGLE_RECAPTCHA_V3_SITE_KEY':'6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1','GOOGLE_RECAPTCHA_URL':'https://www.google.com/recaptcha/api.js?render=6LfUXCcrAAAAAIMKvjBDvD6uyPZhtxPL9QNot8N1'}                });
             </script>
 <script  src="../../bitrix/cache/js/s1/kalmatron/template_a168bd841f75c9187efdaaff729553ab/template_a168bd841f75c9187efdaaff729553ab_v1.js@1760597754510771"></script>
 
 </body>
-</html><!--cb99555e38cc5d933e8f9d554477cae7-->
+</html><!--95036a27c11e32b09efb2f2e87677a73-->
