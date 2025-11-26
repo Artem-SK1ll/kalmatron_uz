@@ -1,0 +1,230 @@
+
+
+/* Start:/local/templates/kalmatron/components/bitrix/news.detail/service/style.css?17588169083907*/
+.services__content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 180px;
+    align-items: flex-start;
+}
+
+.services-content__text {
+    width: 50%;
+    padding-right: 100px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.services-content__text p {
+    margin-bottom: 20px;
+}
+
+.services-content__text h2 {
+    margin-bottom: 24px;
+    font-size: calc(19px + .3vw);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.services-content__text h3 {
+    font-weight: 500;
+}
+
+.services-content__text ul {
+    padding-left: 25px;
+}
+
+.services-content-workers {
+    display: block;
+    width: 100%;
+    margin: 0 10px 20px 10px;
+}
+
+.services-content-workers .workers-docs__count {
+    display: none;
+}
+
+.services-content__gallery {
+    width: calc(50% + 20px);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin: 0 -10px;
+}
+
+.services-content-gallery__item {
+    width: calc(50% - 20px);
+    margin: 0 10px 20px 10px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.services-content-gallery__item:before {
+    padding-top: 80%;
+    display: block;
+    content: '';
+}
+
+.services-content-gallery__item img {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+@media (max-width: 1600px) {
+    .services-content__text {
+        padding-right: 30px;
+        font-size: 18px;
+    }
+
+    .services__list {
+        margin-bottom: 100px;
+    }
+
+    .services__content {
+        margin-bottom: 100px;
+    }
+}
+
+@media (max-width: 991px) {
+    .services-content-workers .workers-docs__count {
+        display: block;
+    }
+
+    .services-content__text {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 30px;
+        font-size: 16px;
+    }
+
+    .services-content__gallery {
+        width: calc(100% + 20px);
+    }
+}
+
+@media (max-width: 600px) {
+    .services-content-workers {
+        margin: 0 5px 10px 5px;
+    }
+
+    .services-content-gallery__item {
+        width: calc(50% - 10px);
+        margin: 0 5px 10px 5px;
+    }
+}
+
+
+.objects-swiper {
+    font-family: sans-serif;
+    background: #fff;
+    text-align: center;
+    max-width: 1200px;
+    padding: 0 80px;
+    margin: 100px auto 0 auto
+}
+
+.objects-swiper .project {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.objects-swiper__title {
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.objects-swiper__container {
+    position: relative;
+}
+
+
+.objects-swiper .swiper-slide {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    padding: 20px;
+    height: auto;
+}
+
+.objects-swiper__img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 24px;
+    overflow: hidden;
+    position: relative;
+}
+
+.objects-swiper__img:before {
+    padding-top: 130%;
+    display: block;
+    content: '';
+}
+
+.objects-swiper__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+.objects-swiper__card-title {
+    font-size: clamp(18px, 2.5vw, 22.8px);
+    text-transform: uppercase;
+    text-align: left;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.objects-swiper__card-subtitle {
+    font-size: clamp(14px, 2vw, 18px);
+    font-weight: 300;
+    line-height: 1.2;
+    text-align: left;
+}
+
+
+.objects-swiper .swiper-button-next,
+.objects-swiper .swiper-button-prev {
+    color: #003399 !important;
+}
+
+.objects-swiper .swiper-pagination-bullets .swiper-pagination-bullet {
+    background-color: #003399 !important;
+    opacity: 1;
+    transition: .3s;
+}
+
+.objects-swiper .swiper {
+    padding: 6px;
+}
+
+.objects-swiper .swiper-pagination-bullet-active {
+    background-color: #003399 !important;
+    width: 58px;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 991px) {
+    .objects-swiper {
+        padding: 0 20px;
+        margin: 80px auto 0 auto;
+    }
+
+}
+
+
+
+/* End */
+/* /local/templates/kalmatron/components/bitrix/news.detail/service/style.css?17588169083907 */
