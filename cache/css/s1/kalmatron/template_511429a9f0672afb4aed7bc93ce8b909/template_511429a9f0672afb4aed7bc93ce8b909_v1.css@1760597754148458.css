@@ -567,7 +567,7 @@ video {
 }
 
 .social-link {
-    width: 100px;
+    width: 32px;
     height: 32px;
     justify-content: center;
     border-radius: 50%;
@@ -591,8 +591,8 @@ video {
 }
 
 .social-link img {
-    width: 100px;
-    height: 50px
+    width: 20px;
+    height: 20px
 }
 
 .menu, .menu__item, .social-link {
@@ -1890,7 +1890,7 @@ video {
 }
 
 .main-block__title {
-    padding-top: 51px;
+    padding-top: 130px;
     margin-bottom: 8px
 }
 
@@ -6288,7 +6288,7 @@ body .feedback__form .captcha-row .input-error-text {
 }
 
 .social-link[href*="wa.me"] {
-
+    background: #25D366!important;
     transition: opacity 0.3s ease;
 }
 

@@ -41,6 +41,8 @@
     <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
     <link rel="shortcut icon" href="/images/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="preload" href="/local/templates/kalmatron/static/fonts/noirpro/NoirPro-Regular.woff2" as="font" type="font/woff2" crossorigin="">
     <meta name="apple-mobile-web-app-title" content="kalmatron.ru">
     <meta name="yandex-verification" content="16fb462a38f76371">
     <!-- Google Tag Manager -->
@@ -302,8 +304,8 @@
     
     <!--noindex-->
 <div class="mobile-menu__social-links">
-		 <a rel="nofollow" target="_blank" href="https://t.me/kalmatronuz8" class="mobile-menu__social-link social-link gray ">
-		<img class="tg" src="https://i.pinimg.com/originals/24/58/c0/2458c071e747c9d335826f1f9d334460.png" alt="WhatsApp">
+		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="mobile-menu__social-link social-link gray ">
+		<img src="images/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
 <!--/noindex--></div>    <header class="header">
@@ -365,9 +367,8 @@
                             <div class="btn primary-btn minify header__callback js-bq-form-popup-open" data-iblock="callback" data-template="popup" data-title="Обратный звонок" data-description="Оставьте свои данные и мы <br class='desktop'>перезвоним в ближайшее время" data-success_message="Спасибо за вашу заявку! Мы свяжемся с вами в ближайшее время." data-goal="zakazat-zvonok-header">Обратный звонок</div>
                             <!--noindex-->
 <div class="header__social-links">
-		 <a rel="nofollow" target="_blank" href="https://t.me/kalmatronuz8
-" class="header__social-link social-link gray ">
-		<img class="tg" src="https://i.pinimg.com/originals/24/58/c0/2458c071e747c9d335826f1f9d334460.png" alt="WhatsApp">
+		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="header__social-link social-link gray ">
+		<img src="images/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
 <!--/noindex-->                        </div>
@@ -653,8 +654,7 @@
                         <h1 class="main-block__title title color-text-black">Надежная защита - КАЛЬМАТРОН</h1>
                         <div class="text-24-small fw-light">
                             30 лет составы КАЛЬМАТРОН подтверждают свою
-уникальность на самых сложных и ответственных объектах не только в России,<br>но и за рубежом    
-<h2 class="main-block__title title color-text-black">Kомпания Платинум стандарт, является официальным дилером в Узбекистане.</h2>                    </div>
+уникальность на самых сложных и ответственных объектах не только в России,<br>но и за рубежом                        </div>
                         <a href="/catalog/" class="main-block__button btn primary-btn">Перейти в каталог</a>
                     </div>
                     <div class="main-block__slider swiper">
@@ -890,7 +890,7 @@
         <div class="big-blue-block__info">
             <p class="subtitle-2 color-white">Строительная документация</p>
             <p class="big-blue-block__text color-white body-l">
-                Мы подготовили большое количество материалов для специалистов– от документации
+                Мы подготовили большое количество материалов для специалистов�– от документации
                 до описания типовых решений, а также программ сотрудничества
             </p>
             <a href="workers/" class="btn bordered-white-btn">Перейти в раздел</a>
@@ -1249,7 +1249,7 @@
 </div>    <div class="inline form main-feedback feedback mt-block">
     <div class="inner">
         <div class="d-flex justify-center">
-            <form class="bq-form feedback__form global-tg-form" id="bquadro-form-e0a3e4efa8ba830592da205f8304f3021973edac" data-modal="feedback" novalidate="">
+            <form class="bq-form feedback__form" id="bquadro-form-e0a3e4efa8ba830592da205f8304f3021973edac" data-modal="feedback" novalidate="">
                 <input type="hidden" name="sessid" id="sessid" value="">                <div class="bq-form-inner js-bq-form-inner">
                     <div class="bq-form-inner__item">
                         <div class="title-block">
@@ -1324,8 +1324,8 @@
                     <div class="footer__contacts-social-top">
                         <!--noindex-->
 <div class="footer__social-links">
-		 <a rel="nofollow" target="_blank" href="https://t.me/kalmatronuz8" class="footer__social-link social-link white ">
-		<img class="tg" src="https://i.pinimg.com/originals/24/58/c0/2458c071e747c9d335826f1f9d334460.png" alt="WhatsApp">
+		 <a rel="nofollow" target="_blank" href="https://wa.me/79523509935" class="footer__social-link social-link white ">
+		<img src="images/icon_whatsapp_white.svg" alt="WhatsApp">
 	</a>
 	</div>
 <!--/noindex-->                        <div class="desktop">
@@ -1449,84 +1449,6 @@
                 });
                                 </script>
 <script src="js/template_a168bd841f75c9187efdaaff729553ab_v1.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
-
-    // Ваш ID формы (если ID нет — будет взят первый .bq-form)
-    const FORM_ID = "bquadro-form-e0a3e4efa8ba830592da205f8304f3021973edac";
-
-    let form = document.getElementById(FORM_ID) || document.querySelector(".bq-form");
-
-    if (!form) {
-        console.error("Форма не найдена. Проверь ID или класс формы.");
-        return;
-    }
-
-    console.log("Форма найдена:", form);
-
-    form.addEventListener("submit", async function (e) {
-        e.preventDefault();
-
-        const NAME = form.querySelector('[name="NAME"]')?.value.trim() || "";
-        const CONTACT = form.querySelector('[name="CONTACT"]')?.value.trim() || "";
-        const QUESTION = form.querySelector('[name="QUESTION"]')?.value.trim() || "";
-        const CONSENT = form.querySelector('[name="UCONSENT"]')?.checked;
-
-        if (!CONSENT) {
-            alert("Вы должны согласиться с обработкой персональных данных.");
-            return;
-        }
-
-        // Проверка пустых полей
-        if (!NAME || !CONTACT) {
-            alert("Заполните обязательные поля!");
-            return;
-        }
-
-        try {
-
-            let response = await fetch("http://localhost:3000/send-form", {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ NAME, CONTACT, QUESTION })
-            });
-
-            // Если сервер вернул ошибку (404, 500 и т.п.)
-            if (!response.ok) {
-                console.error("Ошибка сервера:", response.status);
-                alert("Сервер недоступен (ошибка " + response.status + ").");
-                return;
-            }
-
-            // Пробуем разобрать JSON (если пришёл HTML — поймаем через try/catch)
-            let result;
-            try {
-                result = await response.json();
-            } catch (e) {
-                console.error("Сервер вернул НЕ JSON:", e);
-                alert("Ошибка: сервер вернул неверный формат данных.");
-                return;
-            }
-
-            if (result.ok) {
-                alert("Сообщение успешно отправлено!");
-                form.reset();
-            } else {
-                console.error("Ошибка отправки:", result);
-                alert("Ошибка отправки. Проверьте консоль.");
-            }
-
-        } catch (error) {
-            console.error("Fetch Error:", error);
-            alert("Нет соединения с сервером.");
-        }
-
-    });
-
-});
-</script>
-
-
 
 
 </body></html><!--32c21660016ef067bfcb2f53b75a9d50-->
