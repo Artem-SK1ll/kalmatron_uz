@@ -574,13 +574,7 @@ video {
     transition: 300ms
 }
 
-.social-link.gray {
-    background: #a8a8a8
-}
 
-.social-link.gray:hover {
-    background: #8a8a8a
-}
 
 .social-link.white {
     background: var(--white)

@@ -574,13 +574,7 @@ video {
     transition: 300ms
 }
 
-.social-link.gray {
-    background: #a8a8a8
-}
 
-.social-link.gray:hover {
-    background: #8a8a8a
-}
 
 .social-link.white {
     background: var(--white)
@@ -6288,7 +6282,7 @@ body .feedback__form .captcha-row .input-error-text {
 }
 
 .social-link[href*="wa.me"] {
-    background: #25D366!important;
+   
     transition: opacity 0.3s ease;
 }
 
