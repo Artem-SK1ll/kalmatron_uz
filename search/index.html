@@ -1,84 +1,87 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Поиск</title>
-    <script>
-        // Справочник товаров (название -> URL)
-        const products = {
-            'калматрон': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron/index.html',
-            'кальматрон-эконом': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron-ekonom/',
-            'кальматрон эластик': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-elastik/',
-            'кальматрон-акриласт': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-akrilast/',
-            'кальматрон-д': '/kalmatron_uz/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d/',
-            'кальматрон-д про': '/kalmatron_uz/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d-pro/',
-            'кальматрон-инжект': '/kalmatron_uz/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/',
-            'гидропломба кальмастоп': '/kalmatron_uz/catalog/remontnye-smesi/gidroplomba-kalmastop/',
-            'кальматрон-шовный': '/kalmatron_uz/catalog/remontnye-smesi/kalmatron-shovnyy/',
-            'гидробетон срг-ф1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-f1/',
-            'гидробетон срг-ф2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-f2/',
-            'гидробетон срг-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-1/',
-            'гидробетон срг-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-2/',
-            'гидробетон наливной-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-nalivnoy-1/',
-            'гидробетон наливной-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-nalivnoy-2/',
-            'кальматрон адгезив': '/kalmatron_uz/catalog/remontnye-smesi/kalmatron-adgeziv/',
-            'гидробетон-торкрет': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-torkret/',
-            'гидробетон крио-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-krio-1/',
-            'гидробетон крио-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-krio-2/',
-            'гидробетон-подводный': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-podvodnyy-pm/',
-            'гидробетон св-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-sv-1/',
-            'гидробетон срг-4': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-4/',
-            'бентонитовый шнур ультраплат': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/bentonitovyy-shnur-ultraplat/',
-            'гидрошпонки ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/',
-            'инжектосистема кальматрон': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/inzhektosistema-kalmatron/',
-            'эластичная лента ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/elastichnaya-lenta-ultraband-defshov/',
-            'клей ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/kley-ultraband-defshov/',
-            'топпинг ультратоп кварц': '/kalmatron_uz/catalog/topping/topping-ultratop-kvarts/',
-            'проникающая гидроизоляция': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/',
-            'эластичная гидроизоляция': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/',
-            'добавки в бетон': '/kalmatron_uz/catalog/dobavki-v-beton/',
-            'грунтовка для бетона': '/kalmatron_uz/catalog/gruntovka-dlya-betona/',
-            'инъекционная гидроизоляция': '/kalmatron_uz/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/',
-            'ремонтные смеси': '/kalmatron_uz/catalog/remontnye-smesi/',
-            'системы гидроизоляции': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/',
-            'топпинг': '/kalmatron_uz/catalog/topping/',
-            'упрочнитель бетона': '/kalmatron_uz/catalog/uprochnitel-betona/'
-        };
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Поиск</title>
 
-        function performSearch() {
-  const params = new URLSearchParams(location.search);
-  const query = params.get('q');
+  <script>
+    // 🔹 Справочник товаров (РУССКИЕ ключи → ЛАТИНСКИЕ URL)
+    const products = {
+      'калматрон': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron/',
+      'кальматрон-эконом': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/pronikayushchaya-gidroizolyatsiya-kalmatron-ekonom/',
+      'кальматрон эластик': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-elastik/',
+      'кальматрон-акриласт': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/elastichnaya-gidroizolyatsiya-kalmatron-akrilast/',
+      'кальматрон-д': '/kalmatron_uz/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d/',
+      'кальматрон-д про': '/kalmatron_uz/catalog/dobavki-v-beton/dobavka-v-beton-kalmatron-d-pro/',
+      'кальматрон-инжект': '/kalmatron_uz/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/kalmatron-inzhekt/',
+      'гидропломба кальмастоп': '/kalmatron_uz/catalog/remontnye-smesi/gidroplomba-kalmastop/',
+      'кальматрон-шовный': '/kalmatron_uz/catalog/remontnye-smesi/kalmatron-shovnyy/',
+      'гидробетон срг-ф1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-f1/',
+      'гидробетон срг-ф2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-f2/',
+      'гидробетон срг-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-1/',
+      'гидробетон срг-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-2/',
+      'гидробетон наливной-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-nalivnoy-1/',
+      'гидробетон наливной-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-nalivnoy-2/',
+      'кальматрон адгезив': '/kalmatron_uz/catalog/remontnye-smesi/kalmatron-adgeziv/',
+      'гидробетон-торкрет': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-torkret/',
+      'гидробетон крио-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-krio-1/',
+      'гидробетон крио-2': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-krio-2/',
+      'гидробетон-подводный': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-podvodnyy-pm/',
+      'гидробетон св-1': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-sv-1/',
+      'гидробетон срг-4': '/kalmatron_uz/catalog/remontnye-smesi/gidrobeton-srg-4/',
+      'бентонитовый шнур ультраплат': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/bentonitovyy-shnur-ultraplat/',
+      'гидрошпонки ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/gidroshponki-ultraband/',
+      'инжектосистема кальматрон': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/inzhektosistema-kalmatron/',
+      'эластичная лента ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/elastichnaya-lenta-ultraband-defshov/',
+      'клей ультрабанд': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/kley-ultraband-defshov/',
+      'топпинг ультратоп кварц': '/kalmatron_uz/catalog/topping/topping-ultratop-kvarts/',
+      'проникающая гидроизоляция': '/kalmatron_uz/catalog/pronikayushchaya-gidroizolyatsiya/',
+      'эластичная гидроизоляция': '/kalmatron_uz/catalog/elastichnaya-gidroizolyatsiya/',
+      'добавки в бетон': '/kalmatron_uz/catalog/dobavki-v-beton/',
+      'грунтовка для бетона': '/kalmatron_uz/catalog/gruntovka-dlya-betona/',
+      'инъекционная гидроизоляция': '/kalmatron_uz/catalog/inektsionnaya-otsechnaya-gidroizolyatsiya/',
+      'ремонтные смеси': '/kalmatron_uz/catalog/remontnye-smesi/',
+      'системы гидроизоляции': '/kalmatron_uz/catalog/sistemy-gidroizolyatsii-shvov/',
+      'топпинг': '/kalmatron_uz/catalog/topping/',
+      'упрочнитель бетона': '/kalmatron_uz/catalog/uprochnitel-betona/'
+    };
 
-  if (!query) {
-    location.href = 'catalog/index.html';
-    return;
-  }
+    function performSearch() {
+      const params = new URLSearchParams(window.location.search);
+      const query = params.get('q');
 
-  const search = query.toLowerCase().trim();
+      // ❗ абсолютный fallback
+      if (!query) {
+        window.location.href = '/kalmatron_uz/catalog/';
+        return;
+      }
 
-  // 1. точное совпадение
-  if (products[search]) {
-    location.href = products[search];
-    return;
-  }
+      const search = query.toLowerCase().trim();
 
-  // 2. частичное совпадение
-  for (const key in products) {
-    if (key.includes(search)) {
-      location.href = products[key];
-      return;
+      // 1️⃣ точное совпадение
+      if (products[search]) {
+        window.location.href = products[search];
+        return;
+      }
+
+      // 2️⃣ частичное совпадение
+      for (const key in products) {
+        if (key.includes(search)) {
+          window.location.href = products[key];
+          return;
+        }
+      }
+
+      // 3️⃣ fallback
+      window.location.href = '/kalmatron_uz/catalog/';
     }
-  }
 
-  // 3. fallback
-  location.href = 'catalog/index.html';
-}
-
-window.addEventListener('load', performSearch);
-</script>
+    window.addEventListener('DOMContentLoaded', performSearch);
+  </script>
 </head>
+
 <body>
-    <p>Выполняется поиск...</p>
+  <p>Выполняется поиск…</p>
 </body>
 </html>

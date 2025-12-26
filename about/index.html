@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+    <base href="/kalmatron_uz/">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>О компании «Кальматрон»</title>
@@ -425,23 +426,23 @@
                 <div class="header__main desktop">
                     <div class="header__main-top">
                         	<div class="search-form header__search-form" id="title-search">
-		<form action="/kalmatron_uz/search/index.html" class="search-form__inner relative">
+		<form action="../search/index.html" class="search-form__inner relative">
 			<div class="search-form__inner">
 				<div class="search-form__input-block">
-					<img src="../assets/static/images/svg/icon-loupe-gray.svg" alt="Поиск">
-					<input class="search-form__input" id="title-search-input" type="text" name="q" value="" placeholder="" size="40" maxlength="50" autocomplete="off" />
+					<img src="../images/icon-loupe-gray.svg" alt="Поиск">
+					<input class="search-form__input" id="title-search-input" type="text" name="q" value="" placeholder="" size="40" maxlength="50" autocomplete="off">
 				</div>
-
 
 				<button class="btn btn--no-rippple btn-clear-search fill-dark-light-block banner-light-icon-fill light-opacity-hover" type="reset" name="rs">
 					X
 				</button>
 				<button class="btn search-form__btn" type="submit" name="s" value="">
-					<img src="../assets/static/images/svg/icon-loupe-white.svg" alt="Найти">
+					<img src="../images/icon-loupe-white.svg" alt="Найти">
 				</button>
 			</div>
 		</form>
 	</div>
+
 
                         <div class="header__main-top-right">
                             <div class="header__main-contacts">
@@ -764,18 +765,35 @@
             </div>
         </div>
     </header>
-    <div class="header-search-mobile mobile" style="display: none;">
-        	<div class="inner" id="title-search-mobile">
-		<form action="/kalmatron_uz/search/index.html" class="header-search-mobile__form">
-			<div class="search-form__input-block">
-				<img src="../assets/static/images/svg/icon-loupe-gray.svg" alt="Поиск">
-				<input class="search-form__input" id="title-search-input-mobile" type="text" name="q" value="" placeholder="" size="40" maxlength="50" autocomplete="off" />
-			</div>
-			<button class="btn search-form__btn" type="submit" name="s" value="">
-				<img src="../assets/static/images/svg/icon-loupe-white.svg" alt="Найти">
-			</button>
-		</form>
-	</div>
+   <div class="header-search-mobile mobile" style="display: none;">
+  <div class="inner">
+    <form action="/kalmatron_uz/search/index.html" 
+          method="get"
+          class="header-search-mobile__form">
+
+      <div class="search-form__input-block">
+        <img src="../assets/static/images/svg/icon-loupe-gray.svg" alt="Поиск">
+
+        <!-- ВАЖНО: убрали bitrix-id -->
+        <input
+          class="search-form__input"
+          type="text"
+          name="q"
+          placeholder=""
+          size="40"
+          maxlength="50"
+          autocomplete="off"
+        />
+      </div>
+
+      <button class="btn search-form__btn" type="submit">
+        <img src="../assets/static/images/svg/icon-loupe-white.svg" alt="Найти">
+      </button>
+
+    </form>
+  </div>
+</div>
+
 
     </div>
                         <div class="top-block with_breadcrumb">
